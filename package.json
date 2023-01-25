@@ -1,0 +1,22 @@
+{
+  "name": "openlibrary-js",
+  "version": "0.0.1",
+  "description": "JavaScript client for OpenLibrary's API",
+  "main": "ol.cjs.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orion-za/openlibrary-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/orion-za/openlibrary-js/issues"
+  },
+  "homepage": "https://github.com/orion-za/openlibrary-js#readme",
+  "dependencies": {
+    "node-fetch": "^3.3.0"
+  }
+}
