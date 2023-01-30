@@ -1,11 +1,20 @@
 import fetch from "node-fetch";
 
+class BookIdentifiers {
+    constructor( isbn = [], oclc = [], lccn = [], olid = []) {
+        this.ISBN = isbn;
+        this.OCLC = oclc;
+        this.LLCN = llcn;
+        this.OLID = olid;
+    }
+}
+
 class BooksAPI {
     constructor() {
         this.BASE_API_URL = "https://openlibrary.org/api/books?bibkeys="
     }
 
-    async get({ identifiers = {}, format = 'javascript', callback = null, jscmd = 'viewapi'}) {
+    async get(identifiers, format = 'javascript', callback = null, jscmd = 'viewapi') {
         let req_url = this.BASE_API_URL;
 
         if (isbn != null) {
@@ -22,5 +31,21 @@ class BooksAPI {
         }
 
         req_url = req_url.concat()
+    }
+
+    async getISBN(identifiers, format = 'javascript', callback = null, jscmd = 'viewapi') {
+
+    }
+
+    async getOCLC(identifiers, format = 'javascript', callback = null, jscmd = 'viewapi') {
+
+    }
+
+    async getLLCN(identifiers, format = 'javascript', callback = null, jscmd = 'viewapi') {
+
+    }
+
+    async getOLID(identifiers, format = 'javascript', callback = null, jscmd = 'viewapi') {
+        
     }
 }
