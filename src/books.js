@@ -57,7 +57,7 @@ class BooksAPI {
         return data;
     }
 
-    getBooksByISBN(identifiers) {
+    async getBooksByISBN(identifiers) {
         let req_url = this.BASE_API_URL;
         req_url = req_url.concat(`ISBN:${identifiers.toString()}`);
 
@@ -78,7 +78,7 @@ class BooksAPI {
         return data;
     }
 
-    getBooksByOCLC(identifiers) {
+    async getBooksByOCLC(identifiers) {
         let req_url = this.BASE_API_URL;
         req_url = req_url.concat(`OCLC:${identifiers.toString()}`);
 
@@ -99,7 +99,7 @@ class BooksAPI {
         return data;
     }
 
-    getBooksByLCCN(identifiers) {
+    async getBooksByLCCN(identifiers) {
         let req_url = this.BASE_API_URL;
         req_url = req_url.concat(`LCCN:${identifiers.toString()}`);
 
@@ -120,7 +120,7 @@ class BooksAPI {
         return data;
     }
 
-    getBooksByOLID(identifiers) {
+    async getBooksByOLID(identifiers) {
         let req_url = this.BASE_API_URL;
         req_url = req_url.concat(`OLID:${identifiers.toString()}`);
 
@@ -142,4 +142,76 @@ class BooksAPI {
     }
 }
 
-module.exports = {BookIdentifiers, BooksAPI}
+class WorksAPI {
+    constructor() {
+        this.BASE_API_URL = "https://openlibrary.org/works/";
+    }
+
+    async getWork(work) {
+        const req_url = this.BASE_API_URL + work + ".json";
+
+        const res = await fetch(req_url);
+        const data = await res.json();
+
+        return data;
+    }
+
+    async getEditions(work) {
+        const req_url = this.BASE_API_URL + work + "/editions.json";
+
+        const res = await fetch(req_url);
+        const data = await res.json();
+
+        return data;
+    }
+
+    async getBookshelves(work) {
+        const req_url = this.BASE_API_URL + work + "/bookshelves.json";
+
+        const res = await fetch(req_url);
+        const data = await res.json();
+
+        return data;
+    }
+
+    async getRatings(work) {
+        const req_url = this.BASE_API_URL + work + "/ratings.json";
+
+        const res = await fetch(req_url);
+        const data = await res.json();
+
+        return data;
+    }
+}
+
+class EditionsAPI {
+    constructor() {
+        this.BASE_API_URL = "https://openlibrary.org/books/"
+    }
+
+    async getEdition(edition) {
+        const req_url = this.BASE_API_URL + edition + ".json";
+
+        const res = await fetch(req_url);
+        const data = await res.json();
+
+        return data;
+    }
+}
+
+class IsbnAPI {
+    constructor() {
+        this.BASE_API_URL = "https://openlibrary.org/isbn/"
+    }
+
+    async getEdition(edition) {
+        const req_url = this.BASE_API_URL + edition + ".json";
+
+        const res = await fetch(req_url);
+        const data = await res.json();
+
+        return data;
+    }
+}
+
+module.exports = {BookIdentifiers, BooksAPI, WorksAPI, EditionsAPI, IsbnAPI}
