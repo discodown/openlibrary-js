@@ -1,0 +1,224 @@
+{
+  "ISBN:2757827944": {
+    "url": "https://openlibrary.org/books/OL42911934M/Merci_D'Avoir_Surv'cu_(English_and_French_Edition)",
+    "key": "/books/OL42911934M",
+    "title": "Merci D'Avoir Surv'cu (English and French Edition)",
+    "authors": [
+      {
+        "url": "https://openlibrary.org/authors/OL6966948A/Henri_Borlant",
+        "name": "Henri Borlant"
+      }
+    ],
+    "identifiers": {
+      "isbn_10": ["2757827944"],
+      "isbn_13": ["9782757827949"],
+      "openlibrary": ["OL42911934M"]
+    },
+    "publishers": [{ "name": "Contemporary French Fiction" }],
+    "publish_date": "2012-03-04",
+    "ebooks": [
+      {
+        "preview_url": "https://archive.org/details/mercidavoirsurvc0000henr",
+        "availability": "borrow",
+        "formats": {},
+        "borrow_url": "https://openlibrary.org/books/OL42911934M/Merci_D'Avoir_Surv'cu_(English_and_French_Edition)/borrow",
+        "checkedout": false
+      }
+    ]
+  },
+  "0746062354": {
+    "url": "https://openlibrary.org/books/OL7958773M/Christmas_(Usborne_Baby_Jigsaw_Books)",
+    "key": "/books/OL7958773M",
+    "title": "Christmas (Usborne Baby Jigsaw Books)",
+    "authors": [
+      {
+        "url": "https://openlibrary.org/authors/OL2703462A/Fiona_Watt",
+        "name": "Fiona Watt"
+      }
+    ],
+    "number_of_pages": 6,
+    "weight": "14.9 ounces",
+    "identifiers": {
+      "librarything": ["396734"],
+      "isbn_10": ["0746062354"],
+      "isbn_13": ["9780746062357"],
+      "openlibrary": ["OL7958773M"]
+    },
+    "classifications": { "lc_classifications": ["GT4985.5"] },
+    "publishers": [{ "name": "Usborne Publishing Ltd" }],
+    "publish_date": "August 27, 2004",
+    "subjects": [
+      {
+        "name": "Toy and movable books",
+        "url": "https://openlibrary.org/subjects/toy_and_movable_books"
+      },
+      {
+        "name": "Christmas stories",
+        "url": "https://openlibrary.org/subjects/christmas_stories"
+      }
+    ],
+    "ebooks": [
+      {
+        "preview_url": "https://archive.org/details/christmas0000watt",
+        "availability": "borrow",
+        "formats": {},
+        "borrow_url": "https://openlibrary.org/books/OL7958773M/Christmas_(Usborne_Baby_Jigsaw_Books)/borrow",
+        "checkedout": false
+      }
+    ],
+    "cover": {
+      "small": "https://covers.openlibrary.org/b/id/484496-S.jpg",
+      "medium": "https://covers.openlibrary.org/b/id/484496-M.jpg",
+      "large": "https://covers.openlibrary.org/b/id/484496-L.jpg"
+    }
+  },
+  "OCLC:27082333": {
+    "url": "https://openlibrary.org/books/OL17046087M/Theorie_der_Bewegung_und_der_Kra\u0308fte",
+    "key": "/books/OL17046087M",
+    "title": "Theorie der Bewegung und der Kra\u0308fte",
+    "subtitle": "ein Lehrbuch der theoretischen Mechanik, mit besonderer Ru\u0308cksicht auf das Wissenschaftliche Bedu\u0308rfniss technischer Hochschulen",
+    "authors": [
+      {
+        "url": "https://openlibrary.org/authors/OL2406658A/Wilhelm_Schell",
+        "name": "Wilhelm Schell"
+      }
+    ],
+    "pagination": "2 v. ;",
+    "by_statement": "bearbeitet von Wilhelm Schell.",
+    "identifiers": { "oclc": ["27082333"], "openlibrary": ["OL17046087M"] },
+    "publishers": [{ "name": "B.G. Teubner" }],
+    "publish_places": [{ "name": "Leipzig" }],
+    "publish_date": "1879",
+    "subjects": [
+      {
+        "name": "Analytic Mechanics",
+        "url": "https://openlibrary.org/subjects/analytic_mechanics"
+      }
+    ],
+    "table_of_contents": [
+      {
+        "level": 0,
+        "label": "",
+        "title": "I. Bd. 1. Geometrie der streckensysteme und geometrie der massen",
+        "pagenum": ""
+      },
+      {
+        "level": 0,
+        "label": "",
+        "title": "2. Geometrie der bewegung und theorie der bewegungs-zusta\u0308nde (kinematik)",
+        "pagenum": ""
+      },
+      {
+        "level": 0,
+        "label": "",
+        "title": "II. Bd. 3. Theorie der kra\u0308fte u. ihrer aequivalenz (dynamik im weiteren sinne einschl. statik)",
+        "pagenum": ""
+      },
+      {
+        "level": 0,
+        "label": "",
+        "title": "4. Theorie der durch kra\u0308fte erzeugten bewegung (kinetik od. dynamik im engeren sinne)",
+        "pagenum": ""
+      }
+    ]
+  },
+  "LCCN:89000956": {
+    "url": "https://openlibrary.org/books/OL2183202M/On_art_and_artists",
+    "key": "/books/OL2183202M",
+    "title": "On art and artists",
+    "authors": [
+      {
+        "url": "https://openlibrary.org/authors/OL1001754A/Thomas_Albright",
+        "name": "Thomas Albright"
+      }
+    ],
+    "number_of_pages": 242,
+    "pagination": "242 p. ;",
+    "by_statement": "essays by Thomas Albright ; edited and with an introduction by Beverly Hennessey ; foreword by Wayne Thiebaud ; afterword by Lawrence Ferlinghetti.",
+    "identifiers": {
+      "goodreads": ["5154096"],
+      "librarything": ["3684893"],
+      "isbn_10": ["0877015899"],
+      "lccn": ["89000956"],
+      "openlibrary": ["OL2183202M"]
+    },
+    "classifications": {
+      "lc_classifications": ["NX60 .A37 1989", "NX60.A37 1989"],
+      "dewey_decimal_class": ["700"]
+    },
+    "publishers": [{ "name": "Chronicle Books" }],
+    "publish_places": [{ "name": "San Francisco" }],
+    "publish_date": "1989",
+    "subjects": [
+      { "name": "Artists", "url": "https://openlibrary.org/subjects/artists" },
+      { "name": "Arts", "url": "https://openlibrary.org/subjects/arts" },
+      {
+        "name": "Psychology",
+        "url": "https://openlibrary.org/subjects/psychology"
+      },
+      {
+        "name": "Themes, motives",
+        "url": "https://openlibrary.org/subjects/themes,_motives"
+      },
+      {
+        "name": "Art, themes, motives, etc.",
+        "url": "https://openlibrary.org/subjects/art,_themes,_motives,_etc."
+      },
+      {
+        "name": "Artists, psychology",
+        "url": "https://openlibrary.org/subjects/artists,_psychology"
+      }
+    ],
+    "notes": "Includes index.",
+    "ebooks": [
+      {
+        "preview_url": "https://archive.org/details/onartartists0000albr",
+        "availability": "borrow",
+        "formats": {},
+        "borrow_url": "https://openlibrary.org/books/OL2183202M/On_art_and_artists/borrow",
+        "checkedout": false
+      }
+    ],
+    "cover": {
+      "small": "https://covers.openlibrary.org/b/id/11689574-S.jpg",
+      "medium": "https://covers.openlibrary.org/b/id/11689574-M.jpg",
+      "large": "https://covers.openlibrary.org/b/id/11689574-L.jpg"
+    }
+  },
+  "OLID:OL20443644M": {
+    "url": "https://openlibrary.org/books/OL20443644M/A_Text-book_of_the_Materials_of_Construction_for_Use_in_Technical_and_...",
+    "key": "/books/OL20443644M",
+    "title": "A Text-book of the Materials of Construction, for Use in Technical and ...",
+    "authors": [
+      {
+        "url": "https://openlibrary.org/authors/OL5991883A/Robert_Henry_Thurston",
+        "name": "Robert Henry Thurston"
+      }
+    ],
+    "identifiers": { "openlibrary": ["OL20443644M"] },
+    "publish_date": "1890",
+    "ebooks": [
+      {
+        "preview_url": "https://archive.org/details/atextbookmateri01thurgoog",
+        "availability": "full",
+        "formats": {
+          "pdf": {
+            "url": "https://archive.org/download/atextbookmateri01thurgoog/atextbookmateri01thurgoog.pdf"
+          },
+          "epub": {
+            "url": "https://archive.org/download/atextbookmateri01thurgoog/atextbookmateri01thurgoog.epub"
+          },
+          "text": {
+            "url": "https://archive.org/download/atextbookmateri01thurgoog/atextbookmateri01thurgoog_djvu.txt"
+          }
+        },
+        "read_url": "https://archive.org/stream/atextbookmateri01thurgoog"
+      }
+    ],
+    "cover": {
+      "small": "https://covers.openlibrary.org/b/id/6001108-S.jpg",
+      "medium": "https://covers.openlibrary.org/b/id/6001108-M.jpg",
+      "large": "https://covers.openlibrary.org/b/id/6001108-L.jpg"
+    }
+  }
+}
