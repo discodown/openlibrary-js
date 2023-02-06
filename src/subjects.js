@@ -22,3 +22,5 @@ class SubjectsAPI {
         return data;
     }
 }
+
+modules.export = { SubjectsAPI };
