@@ -29,7 +29,7 @@ test('test SearchAPI.search with query and restricted fields', async () => {
     const q = new QueryField("the lord of the rings", "q");
 
     const data = await search.search(q);
-expect(data).toStrictEqual(testData);
+    expect(data).toStrictEqual(testData);
 })
 
 test('test SearchAPI.search with author field and restricted fields', async () => {
