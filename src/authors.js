@@ -1,9 +1,8 @@
 const fetch = require("node-fetch")
 
 class AuthorsAPI {
-    constructor(limit = 50, offset = 50) {
+    constructor(limit = 50) {
         this.limit = limit;
-        this.offset = offset;
         this.BASE_API_URL = "https://openlibrary.org/authors/"
     }
 
@@ -16,8 +15,11 @@ class AuthorsAPI {
         return data;
     }
 
-    async getAuthorWorks(authorId) {
-        const req_url = `${this.BASE_API_URL}/${authorId}/worls.json?limit=${this.limit}?offset=${this.offset}`;
+    async getAuthorWorks(authorId, offset = 0) {
+        let req_url = `${this.BASE_API_URL}/${authorId}/works.json?limit=${this.limit}`;
+        if (offset > 0) {
+            req_url = req_url + `?offset=${offset}`;
+        }
 
         const res = await fetch(req_url);
         const data = await res.json();
@@ -26,4 +28,4 @@ class AuthorsAPI {
     }
 }
 
-module.exports = {AuthorsAPI}
+module.exports = { AuthorsAPI };
