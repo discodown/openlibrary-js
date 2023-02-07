@@ -19,14 +19,14 @@ class Request {
     }
 
     toString() {
-        let res = "";
-        for (id of this.ids) {
-            res = res + id.toString() + ";";
+        let s = "";
+        for (const id of this.idList) {
+            s = s + id.toString() + ";";
         }
 
-        res = res.substring(0, res.length-1);
+        s = s.substring(0, s.length-1);
         
-        return res;
+        return s;
     }
 
     addLibraryId(id) {
@@ -44,7 +44,7 @@ class ReadAPI {
         this.callback = callback;
     }
 
-    async getSingleRequest(id, idType = "isbn") {
+    async getSingleRequest(id, idType) {
         let req_url = this.BASE_API_URL + `${idType}/${id}.json`;
 
         if (this.callback != null) {
@@ -60,13 +60,13 @@ class ReadAPI {
     async getMultiRequest(requests) {
         let req = "";
 
-        for (r of requests) {
+        for (const r of requests) {
             req = req + r.toString() + "|";
         }
 
         req = req.substring(0, req.length-1);
 
-        let req_url = this.BASE_API_URL + req;
+        let req_url = this.BASE_API_URL + `/json/${req}`;
 
         if (this.callback != null) {
             req_url = req_url.concat(`?callback=${this.callback}`);
@@ -78,3 +78,5 @@ class ReadAPI {
         return data;
     }
 }
+
+module.exports = { LibraryID, Request, ReadAPI };
