@@ -214,4 +214,4 @@ class IsbnAPI {
     }
 }
 
-module.exports = {BookIdentifiers, BooksAPI, WorksAPI, EditionsAPI, IsbnAPI}
+module.exports = { BookIdentifiers, BooksAPI, WorksAPI, EditionsAPI, IsbnAPI };

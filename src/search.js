@@ -1,4 +1,5 @@
 const fetch = require("node-fetch");
+const { TsJestCompiler } = require("ts-jest");
 
 const fields = ['title', 'author', 'subject', 'place', 'person', 'language', 'publisher',
                 'first_publish_year', 'title_suggest', 'ddc', 'lcc', 'birth_date'];
@@ -19,16 +20,20 @@ class QueryField {
 }
 
 class SearchAPI {
-    constructor(sort = 'relevance', fields = ['*'], limit = 50) {
+    constructor(sort = 'default', fields = ['*'], limit = 50) {
         this.BASE_API_URL = "https://openlibrary.org/search";
-        this.sort = sort;
+        if (sort == 'default') {
+            this.sort = "";
+        }
+        else {
+            this.sort = sort;
+        }
         this.fields = fields;
         this.limit = limit;
     }
 
     async search(q) {
-        const req_url = this.BASE_API_URL + `.json/${q.toString()}&sort=${this.sort}&fields=${this.fields.toString()}&limit=${this.limit}`;
-
+        const req_url = this.BASE_API_URL + `.json?${q}&fields=${this.fields.toString()}&sort=${this.sort}&limit=${this.limit}`;
         const res = await fetch(req_url);
         const data = await res.json();
 
@@ -36,7 +41,7 @@ class SearchAPI {
     }
 
     async searchAuthors(q) {
-        const req_url = this.BASE_API_URL + `/authors.json/${q.toString()}&sort=${this.sort}&fields=${this.fields.toString()}&limit=${this.limit}`;
+        const req_url = this.BASE_API_URL + `/authors.json?${q}&fields=${this.fields.toString()}&sort=${this.sort}&limit=${this.limit}`;
         
         const res = await fetch(req_url);
         const data = await res.json();
@@ -44,3 +49,5 @@ class SearchAPI {
         return data;
     }
 }
+
+module.exports = { QueryField, SearchAPI };

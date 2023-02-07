@@ -1,0 +1,462 @@
+{
+    "numFound": 646,
+    "start": 0,
+    "numFoundExact": true,
+    "docs": [
+        {
+            "title": "The Lord of the Rings",
+            "language": [
+                "eng",
+                "ita",
+                "dut",
+                "spa",
+                "rus",
+                "ger",
+                "jpn",
+                "fre",
+                "bul",
+                "slo",
+                "cze",
+                "swe",
+                "pol",
+                "gag"
+            ]
+        },
+        {
+            "title": "The Fellowship of the Ring",
+            "language": [
+                "fre",
+                "eng",
+                "ger",
+                "dut",
+                "hun",
+                "pol",
+                "tur",
+                "spa",
+                "ita",
+                "chi",
+                "gag",
+                "por",
+                "bul",
+                "hrv",
+                "scr",
+                "rus",
+                "nor",
+                "dan",
+                "yid",
+                "ind",
+                "ast"
+            ]
+        },
+        {
+            "title": "The Hobbit",
+            "language": [
+                "ger",
+                "fre",
+                "eng",
+                "dan",
+                "dut",
+                "heb",
+                "jpn",
+                "ita",
+                "spa",
+                "rus",
+                "pol",
+                "cze",
+                "tur",
+                "por",
+                "bul",
+                "epo",
+                "swe",
+                "cat",
+                "chi",
+                "vie",
+                "lat"
+            ]
+        },
+        {
+            "title": "The Return of the King",
+            "language": [
+                "slo",
+                "eng",
+                "ger",
+                "fre",
+                "dut",
+                "spa",
+                "pol",
+                "tur",
+                "rus",
+                "por",
+                "ita",
+                "chi",
+                "bul",
+                "cze",
+                "scc",
+                "baq",
+                "hrv",
+                "vie",
+                "ind",
+                "yid"
+            ]
+        },
+        {
+            "title": "The Two Towers",
+            "language": [
+                "eng",
+                "por",
+                "ger",
+                "fre",
+                "dut",
+                "hun",
+                "pol",
+                "rus",
+                "spa",
+                "tur",
+                "ita",
+                "chi",
+                "bul",
+                "scr",
+                "baq",
+                "hrv",
+                "dan",
+                "yid",
+                "ind",
+                "afr"
+            ]
+        },
+        {
+            "title": "The Silmarillion",
+            "language": [
+                "und",
+                "chi",
+                "eng",
+                "spa",
+                "dut",
+                "fre",
+                "por",
+                "ger",
+                "bul",
+                "pol",
+                "ita"
+            ]
+        },
+        {
+            "title": "Farmer Giles of Ham",
+            "language": [
+                "eng",
+                "und",
+                "ger"
+            ]
+        },
+        {
+            "title": "Unfinished Tales of N\u00famenor and Middle-earth",
+            "language": [
+                "eng",
+                "ger",
+                "spa",
+                "bul",
+                "pol"
+            ]
+        },
+        {
+            "title": "The Book of Lost Tales, Part One",
+            "language": [
+                "eng",
+                "fre",
+                "spa"
+            ]
+        },
+        {
+            "title": "The Children of H\u00farin",
+            "language": [
+                "und",
+                "eng",
+                "ita",
+                "pol",
+                "spa",
+                "chi"
+            ]
+        },
+        {
+            "title": "Smith of Wootton Major",
+            "language": [
+                "eng",
+                "spa"
+            ]
+        },
+        {
+            "title": "Novels (Hobbit / Lord of the Rings)",
+            "language": [
+                "eng",
+                "rus"
+            ]
+        },
+        {
+            "title": "Tree and Leaf",
+            "language": [
+                "eng",
+                "spa"
+            ]
+        },
+        {
+            "title": "Roverandom",
+            "language": [
+                "pol",
+                "spa",
+                "eng",
+                "rus"
+            ]
+        },
+        {
+            "title": "The Adventures of Tom Bombadil and Other Verses from the Red Book",
+            "language": [
+                "eng",
+                "ger",
+                "fre"
+            ]
+        },
+        {
+            "title": "The Book of Lost Tales, Part Two",
+            "language": [
+                "eng",
+                "ger",
+                "fre",
+                "spa"
+            ]
+        },
+        {
+            "title": "Tales from the Perilous Realm",
+            "language": [
+                "eng",
+                "hrv"
+            ]
+        },
+        {
+            "title": "Bilbo's Last Song (At the Grey Havens)",
+            "language": [
+                "eng",
+                "fre"
+            ]
+        },
+        {
+            "title": "The Father Christmas letters",
+            "language": [
+                "eng"
+            ]
+        },
+        {
+            "title": "Beowulf. the monsters and the critics",
+            "language": [
+                "eng"
+            ]
+        },
+        {
+            "title": "The letters of J.R.R. Tolkien",
+            "language": [
+                "eng",
+                "ger",
+                "spa",
+                "pol"
+            ]
+        },
+        {
+            "title": "The Fall of Gondolin",
+            "language": [
+                "por",
+                "eng",
+                "ger",
+                "spa"
+            ]
+        },
+        {
+            "title": "Letters from Father Christmas",
+            "language": [
+                "spa",
+                "eng"
+            ]
+        },
+        {
+            "title": "The Monsters and the Critics",
+            "language": [
+                "eng",
+                "ger",
+                "spa",
+                "ita"
+            ]
+        },
+        {
+            "title": "The Return of the Shadow",
+            "language": [
+                "eng",
+                "spa"
+            ]
+        },
+        {
+            "title": "The Tolkien Reader",
+            "language": [
+                "eng"
+            ]
+        },
+        {
+            "title": "The Shaping of Middle-Earth",
+            "language": [
+                "und",
+                "eng"
+            ]
+        },
+        {
+            "title": "Works (Farmer Giles of Ham / Smith of Wootton Major)",
+            "language": [
+                "und",
+                "eng"
+            ]
+        },
+        {
+            "title": "The Lays of Beleriand",
+            "language": [
+                "eng",
+                "spa"
+            ]
+        },
+        {
+            "title": "A Middle English vocabulary",
+            "language": [
+                "enm",
+                "eng"
+            ]
+        },
+        {
+            "title": "The War of the Ring",
+            "language": [
+                "eng"
+            ]
+        },
+        {
+            "title": "Lord of the Rings",
+            "language": [
+                "eng"
+            ]
+        },
+        {
+            "title": "Beren and Luthien",
+            "language": [
+                "ger",
+                "pol",
+                "eng",
+                "tur"
+            ]
+        },
+        {
+            "title": "The Treason of Isengard",
+            "language": [
+                "eng"
+            ]
+        },
+        {
+            "title": "Works (Farmer Giles of Ham / Leaf by Niggle / Smith of Wootton Major)",
+            "language": [
+                "spa",
+                "fre",
+                "tur",
+                "eng"
+            ]
+        },
+        {
+            "title": "Mr. Bliss",
+            "language": [
+                "eng",
+                "fin",
+                "spa"
+            ]
+        },
+        {
+            "title": "Sir Gawain and the Green Knight, Pearl, and Sir Orfeo",
+            "language": [
+                "und",
+                "eng",
+                "spa"
+            ]
+        },
+        {
+            "title": "The Complete History of Middle-Earth"
+        },
+        {
+            "title": "The Hobbit",
+            "language": [
+                "eng",
+                "ita",
+                "spa"
+            ]
+        },
+        {
+            "title": "The road goes ever on",
+            "language": [
+                "eng"
+            ]
+        },
+        {
+            "title": "Novels (Fellowship of the Ring / Hobbit)",
+            "language": [
+                "eng"
+            ]
+        },
+        {
+            "title": "Pictures",
+            "language": [
+                "eng"
+            ]
+        },
+        {
+            "title": "The Fall of Arthur",
+            "language": [
+                "spa"
+            ]
+        },
+        {
+            "title": "Morgoth's Ring",
+            "language": [
+                "eng"
+            ]
+        },
+        {
+            "title": "The lost road and other writings",
+            "language": [
+                "eng"
+            ]
+        },
+        {
+            "title": "Fall of Arthur",
+            "language": [
+                "eng"
+            ]
+        },
+        {
+            "title": "The war of the jewels",
+            "language": [
+                "eng"
+            ]
+        },
+        {
+            "title": "Hobbit",
+            "language": [
+                "eng"
+            ]
+        },
+        {
+            "title": "Silmarillion",
+            "language": [
+                "eng",
+                "spa"
+            ]
+        },
+        {
+            "title": "Sir Gawain & the Green Knight",
+            "language": [
+                "eng"
+            ]
+        }
+    ],
+    "num_found": 646,
+    "q": "",
+    "offset": null
+}
