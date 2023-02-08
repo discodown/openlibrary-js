@@ -1,4 +1,4 @@
-const { BookIdentifiers, BooksAPI , WorksAPI, EditionsAPI, IsbnAPI} = require('../src/books')
+const { BookIdentifiers, BooksAPI , WorksAPI, EditionsAPI, IsbnAPI} = require('../src/books');
 
 test('tests BooksAPI ISBN query', async () => {
     const books = new BooksAPI('json', 'data')

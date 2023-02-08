@@ -29,3 +29,5 @@ class SearchInsideAPI {
         return hostname;
     }
 }
+
+module.exports = { SearchInsideAPI };

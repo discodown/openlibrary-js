@@ -33,3 +33,5 @@ class CoversAPI {
         return blob;
     }
 }
+
+module.exports = { CoversAPI };

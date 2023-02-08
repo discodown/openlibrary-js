@@ -1,21 +1,29 @@
 const fetch = require("node-fetch");
 
 class SubjectsAPI {
-    constructor(details = "false", ebooks = "false", limit = 50, offset = 50) {
+    constructor(details = false, ebooks = false, limit = 50) {
         this.BASE_API_URL = "https://openlibrary.org/subjects/";
         this.details = details;
         this.ebooks = ebooks;
         this.limit = limit;
-        this.offset = offset;
     }
 
-    async getSubjectWorks(subject, publishedIn = null) {
-        let req_url = `${this.BASE_API_URL}/${subject}.json?details=${this.details}?ebooks=${this.ebooks}?limit=${this.limit}?offset=${this.offset}`
+    async getSubjectWorks(subject, offset, publishedIn = null) {
+        let req_url = `${this.BASE_API_URL}${subject}.json?limit=${this.limit}&offset=${offset}`;
 
-        if (publishedIn != null) {
-            req_url = req_url.concat(`?published_in=${publishedIn}`);
+        if (this.ebooks == true) {
+            req_url = req_url + "&ebooks=true";
         }
 
+        if (this.details == true) {
+            req_url = req_url + "&details=true";
+        }
+
+        if (publishedIn != null) {
+            req_url = req_url.concat(`&published_in=${publishedIn}`);
+        }
+        
+        console.log("URLLL: " + req_url)
         const res = await fetch(req_url);
         const data = await res.json();
 
@@ -23,4 +31,4 @@ class SubjectsAPI {
     }
 }
 
-modules.export = { SubjectsAPI };
+module.exports = { SubjectsAPI };
