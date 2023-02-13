@@ -1,10 +1,9 @@
 const fetch = require("node-fetch");
 
 class RecentChangesAPI {
-    constructor(limit = 100, offset = 0) {
+    constructor(limit = 100) {
         this.BASE_API_URL = "http://openlibrary.org/recentchanges";
         this.limit = limit;
-        this.offset = offset;
     }
 
     async getRecentChanges(modifers = {"date" : null, "kind" : null}, bot = null) {
@@ -16,12 +15,12 @@ class RecentChangesAPI {
         if (modifers["kind"] != null) {
             req_url = req_url + `/${modifers["kind"]}`;
         }
-        req_url = req_url + `.json?limit=${this.limit}?offset=${this.offset}`;
+        req_url = req_url + `.json?limit=${this.limit}`;
         
         if (bot != null) {
             req_url = req_url + `&bot=${bot}`;
         }
-
+        
         const res = await fetch(req_url);
         const data = await res.json();
 
