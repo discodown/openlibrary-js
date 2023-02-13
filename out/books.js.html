@@ -1,0 +1,349 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>JSDoc: Source: books.js</title>
+
+    <script src="scripts/prettify/prettify.js"> </script>
+    <script src="scripts/prettify/lang-css.js"> </script>
+    <!--[if lt IE 9]>
+      <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <link type="text/css" rel="stylesheet" href="styles/prettify-tomorrow.css">
+    <link type="text/css" rel="stylesheet" href="styles/jsdoc-default.css">
+</head>
+
+<body>
+
+<div id="main">
+
+    <h1 class="page-title">Source: books.js</h1>
+
+    
+
+
+
+    
+    <section>
+        <article>
+            <pre class="prettyprint source linenums"><code>const fetch = require("node-fetch")
+
+const jscmdTypes = ["viewapi", "data"]
+const formatTypes = ["json", "javascript"]
+
+class BookIdentifiers {
+    /**
+     * An object representing a collection of multiple identifiers of mixed types.
+     * @constructor
+     * @param {string[]} isbn - List of ISBN identifierse. 
+     * @param {string[]} oclc - List of OCLC identifiers.
+     * @param {string[]} lccn - List of LCCN identifiers.
+     * @param {string[]} olid - List of OLID identifiers.
+     */
+    constructor(isbn, oclc, lccn, olid) {
+        this.ISBN = isbn;
+        this.OCLC = oclc;
+        this.LCCN = lccn;
+        this.OLID = olid;
+    }
+}
+
+class BooksAPI {
+    /**
+     * Implements the Books API for fetching information about books using their
+     * ISBN, OCLC, LCCN, or OLID identifiers.
+     * @param {string} format - Format to return results in. Possible values: javascipt, json Default: javasctipt
+     * @param {string} jscmd - Information to provide for each identifier match. Possible values: viewapi, data Default: viewapi
+     * @param {string} callback - Optional callback method to wrap results in. Default: null
+     */
+    constructor(format = 'javascript', jscmd = 'viewapi', callback = null) {
+        this.BASE_API_URL = "https://openlibrary.org/api/books?bibkeys=";
+        this.format = format;
+        this.jscmd = jscmd;
+        this.callback = callback;
+
+    }
+    /**
+     * Get multiple books using at least one ID type.
+     * @param {BookIdentifiers} identifiers - Collection of book identifiers of mixed types.
+     * @returns {Promise} Promise object containing JSON representation of results.
+     */
+    async getBooks(identifiers) {
+        let req_url = this.BASE_API_URL;
+
+        if (identifiers["ISBN"].length != 0) {
+            req_url = req_url.concat(`ISBN:${identifiers["ISBN"].toString()},`);
+        }
+        if (identifiers["OCLC"].length != 0) {
+            req_url = req_url.concat(`OCLC:${identifiers["OCLC"].toString()},`)
+        }
+        if (identifiers["LCCN"].length != 0) {
+            req_url = req_url.concat(`LCCN:${identifiers["LCCN"].toString()},`)
+        }
+        if (identifiers["OLID"].length != 0) {
+            req_url = req_url.concat(`OLID:${identifiers["OLID"].toString()},`)
+        }
+
+        req_url = req_url.substring(0, req_url.length-1);
+
+        if (this.format == 'json') {
+            req_url = req_url.concat('&amp;format=json');
+        }
+        else {
+            if (this.callback != null) {
+                req_url = req_url.concat(`&amp;callback=${this.callback}`);
+            }
+        }
+
+        req_url = req_url.concat(`&amp;jscmd=${this.jscmd}`)
+
+        const res = await fetch(req_url);
+        const data = await res.json();
+
+        return data;
+    }
+
+    /**
+     * Get at least one book using ISBN ID(s).
+     * @param {string[]} identifiers - List of ISBN identifiers.
+     * @returns {Promise} Promise object containing JSON representation of results.
+     */
+    async getBooksByISBN(identifiers) {
+        let req_url = this.BASE_API_URL;
+        req_url = req_url.concat(`ISBN:${identifiers.toString()}`);
+
+        if (this.format == 'json') {
+            req_url = req_url.concat('&amp;format=json');
+        }
+        else {
+            if (this.callback != null) {
+                req_url = req_url.concat(`&amp;callback=${this.callback}`);
+            }
+        }
+
+        req_url = req_url.concat(`&amp;jscmd=${this.jscmd}`)
+
+        const res = await fetch(req_url);
+        const data = await res.json();
+
+        return data;
+    }
+
+    /**
+     * Get at least one book using OCLC ID(s).
+     * @param {string[]} identifiers - List of OCLC identifiers.
+     * @returns {Promise} Promise object containing JSON representation of results.
+     */
+    async getBooksByOCLC(identifiers) {
+        let req_url = this.BASE_API_URL;
+        req_url = req_url.concat(`OCLC:${identifiers.toString()}`);
+
+        if (this.format == 'json') {
+            req_url = req_url.concat('&amp;format=json');
+        }
+        else {
+            if (this.callback != null) {
+                req_url = req_url.concat(`&amp;callback=${this.callback}`);
+            }
+        }
+
+        req_url = req_url.concat(`&amp;jscmd=${this.jscmd}`)
+
+        const res = await fetch(req_url);
+        const data = await res.json();
+
+        return data;
+    }
+
+    /**
+     * Get at least one book using LCCN ID(s).
+     * @param {string[]} identifiers - List of LCCN identifiers.
+     * @returns {Promise} Promise object containing JSON representation of results.
+     */
+    async getBooksByLCCN(identifiers) {
+        let req_url = this.BASE_API_URL;
+        req_url = req_url.concat(`LCCN:${identifiers.toString()}`);
+
+        if (this.format == 'json') {
+            req_url = req_url.concat('&amp;format=json');
+        }
+        else {
+            if (this.callback != null) {
+                req_url = req_url.concat(`&amp;callback=${this.callback}`);
+            }
+        }
+
+        req_url = req_url.concat(`&amp;jscmd=${this.jscmd}`)
+
+        const res = await fetch(req_url);
+        const data = await res.json();
+
+        return data;
+    }
+
+    /**
+     * Get at least one book using OLID ID(s).
+     * @param {string[]} identifiers - List of OLID identifiers.
+     * @returns {Promise} Promise object containing JSON representation of results.
+     */
+    async getBooksByOLID(identifiers) {
+        let req_url = this.BASE_API_URL;
+        req_url = req_url.concat(`OLID:${identifiers.toString()}`);
+
+        if (this.format == 'json') {
+            req_url = req_url.concat('&amp;format=json');
+        }
+        else {
+            if (this.callback != null) {
+                req_url = req_url.concat(`&amp;callback=${this.callback}`);
+            }
+        }
+
+        req_url = req_url.concat(`&amp;jscmd=${this.jscmd}`)
+
+        const res = await fetch(req_url);
+        const data = await res.json();
+
+        return data;
+    }
+}
+
+class WorksAPI {
+    /**
+     * Implements the Works API for fetching information about works using their
+     * OpenLIbrary work ID.
+     * @constructor
+     */
+    constructor() {
+        this.BASE_API_URL = "https://openlibrary.org/works/";
+    }
+
+    /**
+     * Get information about a work.
+     * @param {string} work - A work's OpenLibrary work ID.
+     * @returns {Promise} Promise object containing JSON representation of work data.
+     */
+    async getWork(work) {
+        const req_url = this.BASE_API_URL + work + ".json";
+
+        const res = await fetch(req_url);
+        const data = await res.json();
+
+        return data;
+    }
+
+    /**
+     * Get a list of a work's editions.
+     * @param {string} work - A work's OpenLibrary work ID.
+     * @returns {Promise} Promise object containing JSON representation of work's editions.
+     */
+    async getEditions(work) {
+        const req_url = this.BASE_API_URL + work + "/editions.json";
+
+        const res = await fetch(req_url);
+        const data = await res.json();
+
+        return data;
+    }
+
+    /**
+     * Get a list of bookshelves a work belongs to.
+     * @param {string} work - A work's OpenLibrary work ID.
+     * @returns {Promise} Promise object containing JSON representation of work's bookshelves.
+     */
+    async getBookshelves(work) {
+        const req_url = this.BASE_API_URL + work + "/bookshelves.json";
+
+        const res = await fetch(req_url);
+        const data = await res.json();
+
+        return data;
+    }
+
+    /**
+     * Get a list of a work's ratings.
+     * @param {string} work - A work's OpenLibrary work ID.
+     * @returns {Promise} Promise object containing JSON representation of work's ratings.
+     */
+    async getRatings(work) {
+        const req_url = this.BASE_API_URL + work + "/ratings.json";
+
+        const res = await fetch(req_url);
+        const data = await res.json();
+
+        return data;
+    }
+}
+
+class EditionsAPI {
+    /**
+     * Implements the Editions API for fetching information about editions of a work
+     * using their OpenLibrary edition ID.
+     * @constructor
+     */
+    constructor() {
+        this.BASE_API_URL = "https://openlibrary.org/books/"
+    }
+
+    /**
+     * Get information about an edition of a work.
+     * @param {string} edition - OpenLibrary edition ID. 
+     * @returns {Promise} Promise object containing JSON representation of an edition.
+     */
+    async getEdition(edition) {
+        const req_url = this.BASE_API_URL + edition + ".json";
+
+        const res = await fetch(req_url);
+        const data = await res.json();
+
+        return data;
+    }
+}
+
+class IsbnAPI {
+    /**
+     * Implements the ISBN API for getting information of a work's edition using
+     * its ISBN identifier.
+     */
+    constructor() {
+        this.BASE_API_URL = "https://openlibrary.org/isbn/"
+    }
+
+    /**
+     * Get information about an edition of a work.
+     * @param {string} edition - OpenLibrary edition ID.
+     * @returns {Promise} Promise object containing JSON representation of an edition.
+     */
+    async getEdition(edition) {
+        const req_url = this.BASE_API_URL + edition + ".json";
+
+        const res = await fetch(req_url);
+        const data = await res.json();
+
+        return data;
+    }
+}
+
+module.exports = { BookIdentifiers, BooksAPI, WorksAPI, EditionsAPI, IsbnAPI };</code></pre>
+        </article>
+    </section>
+
+
+
+
+</div>
+
+<nav>
+    <h2><a href="index.html">Home</a></h2><h3>Classes</h3><ul><li><a href="AuthorsAPI.html">AuthorsAPI</a></li><li><a href="BookIdentifiers.html">BookIdentifiers</a></li><li><a href="BooksAPI.html">BooksAPI</a></li><li><a href="CoversAPI.html">CoversAPI</a></li><li><a href="EditionsAPI.html">EditionsAPI</a></li><li><a href="IsbnAPI.html">IsbnAPI</a></li><li><a href="LibraryID.html">LibraryID</a></li><li><a href="QueryField.html">QueryField</a></li><li><a href="ReadAPI.html">ReadAPI</a></li><li><a href="RecentChangesAPI.html">RecentChangesAPI</a></li><li><a href="Request.html">Request</a></li><li><a href="SearchAPI.html">SearchAPI</a></li><li><a href="SearchInsideAPI.html">SearchInsideAPI</a></li><li><a href="SubjectsAPI.html">SubjectsAPI</a></li><li><a href="WorksAPI.html">WorksAPI</a></li></ul>
+</nav>
+
+<br class="clear">
+
+<footer>
+    Documentation generated by <a href="https://github.com/jsdoc/jsdoc">JSDoc 4.0.0</a> on Mon Feb 13 2023 14:30:33 GMT-0500 (Eastern Standard Time)
+</footer>
+
+<script> prettyPrint(); </script>
+<script src="scripts/linenumber.js"> </script>
+</body>
+</html>
