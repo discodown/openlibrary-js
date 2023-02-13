@@ -30,4 +30,6 @@ JavaScript library for accessing the Open Library Web API. See [Open Library's d
 ## To-Do
 * Test Covers API
 * Proper error checking and handling
-* Node module version (CJS)
+* Node module version (CJS?)
+* Add examples to docs
+* Create browser demos
