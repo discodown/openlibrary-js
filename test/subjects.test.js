@@ -18,7 +18,7 @@ test('Test getSubjectWorks with publication date range', async () => {
     const data = await subjects.getSubjectWorks("love", 0, "1500-1600");
 
     expect(data).toStrictEqual(testData);
-})
+});
 
 test('Test getSubjectWorks with details and ebooks', async () => {
     const subjects = new SubjectsAPI(true, true, 50);
