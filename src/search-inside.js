@@ -24,9 +24,18 @@ class SearchInsideAPI {
         const res = await fetch(req_url);
         const data = await res.json();
 
-        hostname = data["d1"];
+        const hostname = data["d1"];
 
         return hostname;
+    }
+
+    async getMetadata(id) {
+        const req_url = `https://archive.org/metadata/${id}`;
+
+        const res = await fetch(req_url);
+        const data = await res.json();
+
+        return data;
     }
 }
 

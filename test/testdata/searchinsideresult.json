@@ -1,0 +1,2544 @@
+{
+    "ia": "designevaluation25clin",
+    "q": "\"library science\"",
+    "indexed": true,
+    "page_count": 224,
+    "body_length": 666,
+    "leaf0_missing": true,
+    "matches": [ 
+{
+    "text": "The first Clinic on Library Applications of Data Processing was held at the Illini Union on the Urbana-Champaign campus of the University of Illinois, April 28 - May 1, 1963 under the sponsorship of the University of Illinois Graduate School of {{{Library Science}}}. Writing in the Foreword to the Clinic proceedings, Herbert Goldhor (1964) provides the rationale for sponsoring such a Clinic:", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1767, 
+                    "b": 957, 
+                    "t": 899, 
+                    "page": 14, 
+                    "l": 1378
+                }
+            ], 
+            "b": 1090, 
+            "t": 700, 
+            "page_width": 2134, 
+            "r": 2024, 
+            "l": 192, 
+            "page_height": 3328, 
+            "page": 14
+        }
+    ]
+},
+{
+    "text": "Starting from the proposition that it is the proper function of a library school to give leadership to the profession, the Faculty of the University of Illinois Graduate School of {{{Library Science}}} have from time to time attempted to identify major challenge problems of our age and to formulate appropriate responses to them. (p. iii)", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1638, 
+                    "b": 1290, 
+                    "t": 1238, 
+                    "page": 14, 
+                    "l": 1283
+                }
+            ], 
+            "b": 1401, 
+            "t": 1127, 
+            "page_width": 2134, 
+            "r": 2024, 
+            "l": 192, 
+            "page_height": 3328, 
+            "page": 14
+        }
+    ]
+},
+{
+    "text": "Adkinson, B. W. (1964). Trends in library applications of data processing. In H. Goldhor (Ed.), Proceedings of the 1963 clinic on library applications of data processing (Papers presented at the 1st Annual Clinic, 28 April-1 May 1963) (pp. 1-8). UrbanaChampaign: University of Illinois, Graduate School of {{{Library Science}}}.", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1744, 
+                    "b": 1920, 
+                    "t": 1873, 
+                    "page": 30, 
+                    "l": 1428
+                }
+            ], 
+            "b": 1920, 
+            "t": 1724, 
+            "page_width": 2134, 
+            "r": 1992, 
+            "l": 168, 
+            "page_height": 3328, 
+            "page": 30
+        }
+    ]
+},
+{
+    "text": "Atkinson, H. C. (1972). The Ohio State On-line Circulation System. In F. W. Lancaster (Ed.), Applications of on-line computers to library problems (Papers presented at the 9th Annual Clinic on Library Applications of Data Processing, 30 April-3 May 1972) (pp. 22-28). Urbana-Champaign: University of Illinois, Graduate School of {{{Library Science}}}.", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1972, 
+                    "b": 2417, 
+                    "t": 2371, 
+                    "page": 30, 
+                    "l": 1823
+                }, 
+                {
+                    "r": 444, 
+                    "b": 2453, 
+                    "t": 2420, 
+                    "l": 296
+                }
+            ], 
+            "b": 2453, 
+            "t": 2221, 
+            "page_width": 2134, 
+            "r": 1992, 
+            "l": 168, 
+            "page_height": 3328, 
+            "page": 30
+        }
+    ]
+},
+{
+    "text": "Bachelder, S. (1976). The New York Times Information Bank: A user's perspective. In F. W. Lancaster (Ed.), The use of computers in literature searching and related reference activities in libraries (Papers presented at the 12th Annual Clinic on Library Applications of Data Processing, 27-30 April 1975) (pp. 17-30). Urbana-Champaign: University of Illinois, Graduate School of {{{Library Science}}}.", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1483, 
+                    "b": 2716, 
+                    "t": 2668, 
+                    "page": 30, 
+                    "l": 1167
+                }
+            ], 
+            "b": 2716, 
+            "t": 2469, 
+            "page_width": 2134, 
+            "r": 1992, 
+            "l": 168, 
+            "page_height": 3328, 
+            "page": 30
+        }
+    ]
+},
+{
+    "text": "Beaumont, D. N. (1974). The LIBS 100 System. In F. W. Lancaster (Ed.), Applications of minicomputers to library and related problems (Papers presented at the 11th Annual Clinic on Library Applications of Data Processing, 28 April-1 May 1974) (pp. 5579). Urbana-Champaign: University of Illinois, Graduate School of {{{Library Science}}}.", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1957, 
+                    "b": 3161, 
+                    "t": 3113, 
+                    "page": 30, 
+                    "l": 1647
+                }
+            ], 
+            "b": 3161, 
+            "t": 2965, 
+            "page_width": 2134, 
+            "r": 1992, 
+            "l": 168, 
+            "page_height": 3328, 
+            "page": 30
+        }
+    ]
+},
+{
+    "text": "Becker, J. (1966). Current trends in library automation. In H. Goldhor (Ed.), Proceedings of the 1966 clinic on library applications of data processing (Papers presented at the 4th Annual Clinic, 24-27 April 1966) (pp. 1-6). Urbana-Champaign: University of Illinois, Graduate School of {{{Library Science}}}.", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1143, 
+                    "b": 496, 
+                    "t": 450, 
+                    "page": 31, 
+                    "l": 827
+                }
+            ], 
+            "b": 496, 
+            "t": 302, 
+            "page_width": 2134, 
+            "r": 1934, 
+            "l": 110, 
+            "page_height": 3328, 
+            "page": 31
+        }
+    ]
+},
+{
+    "text": "Becker, J. (1973). Library networks: The beacon lights. In F. W. Lancaster (Ed.), Networking and other forms of cooperation (Papers presented at the 10th Annual Clinic on Library Applications of Data Processing, 29 April-2 May 1973) (pp. 171-79). UrbanaChampaign: University of Illinois, Graduate School of {{{Library Science}}}.", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1685, 
+                    "b": 695, 
+                    "t": 648, 
+                    "page": 31, 
+                    "l": 1370
+                }
+            ], 
+            "b": 695, 
+            "t": 500, 
+            "page_width": 2134, 
+            "r": 1934, 
+            "l": 110, 
+            "page_height": 3328, 
+            "page": 31
+        }
+    ]
+},
+{
+    "text": "Briggs, R. B. (1976). The user interface for bibliographic search services. In F. W. Lancaster (Ed.), The use of computers in literature searching and related reference activities in libraries (Papers presented at the 12th Annual Clinic on Library Applications of Data Processing, 27-30 April 1975) (pp. 56-77). Urbana-Champaign: University of Illinois, Graduate School of {{{Library Science}}}.", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1142, 
+                    "b": 1490, 
+                    "t": 1444, 
+                    "page": 31, 
+                    "l": 826
+                }
+            ], 
+            "b": 1490, 
+            "t": 1245, 
+            "page_width": 2134, 
+            "r": 1934, 
+            "l": 110, 
+            "page_height": 3328, 
+            "page": 31
+        }
+    ]
+},
+{
+    "text": "Chapin, R. E. (1967). Administrative and economic considerations for library automation. In D. E. Carroll (Ed.), Proceedings of the 1967 clinic on library applications of data processing (Papers presented at the 5th Annual Clinic, 30 April-3 May 1967) (pp. 55-69). Urbana-Champaign: University of Illinois, Graduate School of {{{Library Science}}}.", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1911, 
+                    "b": 1689, 
+                    "t": 1643, 
+                    "page": 31, 
+                    "l": 1764
+                }, 
+                {
+                    "r": 387, 
+                    "b": 1727, 
+                    "t": 1694, 
+                    "l": 238
+                }
+            ], 
+            "b": 1727, 
+            "t": 1494, 
+            "page_width": 2134, 
+            "r": 1934, 
+            "l": 110, 
+            "page_height": 3328, 
+            "page": 31
+        }
+    ]
+},
+{
+    "text": "Counts, R. W. (1967). Information services and operations of the Aerospace Research Applications Center (ARAC). In D. E. Carroll (Ed.), Proceedings of the 1967 clinic on library applications of data processing (Papers presented at the 5th Annual Clinic, 30 April-3 May 1967) (pp. 41-54). Urbana-Champaign: University of Illinois, Graduate School of {{{Library Science}}}.", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 974, 
+                    "b": 1987, 
+                    "t": 1942, 
+                    "page": 31, 
+                    "l": 658
+                }
+            ], 
+            "b": 1987, 
+            "t": 1742, 
+            "page_width": 2134, 
+            "r": 1934, 
+            "l": 110, 
+            "page_height": 3328, 
+            "page": 31
+        }
+    ]
+},
+{
+    "text": "Courtright, B. (1966). The Johns Hopkins University library. In H. Goldhor (Ed.), Proceedings of the 1966 clinic on library applications of data processing (Papers presented at the 4th Annual Clinic, 24-27 April 1966) (pp. 18-33). Urbana-Champaign: University of Illinois, Graduate School of {{{Library Science}}}.", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1423, 
+                    "b": 2186, 
+                    "t": 2141, 
+                    "page": 31, 
+                    "l": 1108
+                }
+            ], 
+            "b": 2186, 
+            "t": 1991, 
+            "page_width": 2134, 
+            "r": 1934, 
+            "l": 110, 
+            "page_height": 3328, 
+            "page": 31
+        }
+    ]
+},
+{
+    "text": "Darling, L. (1966). Information retrieval projects in the Biomedical Library, University of California, Los Angeles. In H. Goidhor (Ed.), Proceedings of the 1966 clinic on library applications of data processing (Papers presented at the 4th Annual Clinic, 2427 April 1966) (pp. 91-123). Urbana-Champaign: University of Illinois, Graduate School of {{{Library Science}}}.", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 767, 
+                    "b": 2683, 
+                    "t": 2639, 
+                    "page": 31, 
+                    "l": 452
+                }
+            ], 
+            "b": 2683, 
+            "t": 2438, 
+            "page_width": 2134, 
+            "r": 1934, 
+            "l": 110, 
+            "page_height": 3328, 
+            "page": 31
+        }
+    ]
+},
+{
+    "text": "Davison, W. (1974). Minicomputers and library automation: The Stanford experience. In F. W. Lancaster (Ed.), Applications of minicomputers to library and related problems (Papers presented at the llth Annual Clinic on Library Applications of Data Processing, 28 April-1 May 1974) (pp. 80-95). Urbana-Champaign: University of Illinois, Graduate School of {{{Library Science}}}.", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1140, 
+                    "b": 2930, 
+                    "t": 2886, 
+                    "page": 31, 
+                    "l": 825
+                }
+            ], 
+            "b": 2930, 
+            "t": 2686, 
+            "page_width": 2134, 
+            "r": 1934, 
+            "l": 110, 
+            "page_height": 3328, 
+            "page": 31
+        }
+    ]
+},
+{
+    "text": "Evans, G. T. (1973). Bibliographic data centers for New York State. In F. W. Lancaster (Ed.), Networking and other forms of cooperation (Papers presented at the 10th Annual Clinic on Library Applications of Data Processing, 29 April-2 May 1973) (pp. 15064). Urbana-Champaign: University of Illinois, Graduate School of {{{Library Science}}}.", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1965, 
+                    "b": 1168, 
+                    "t": 1121, 
+                    "page": 32, 
+                    "l": 1654
+                }
+            ], 
+            "b": 1168, 
+            "t": 971, 
+            "page_width": 2134, 
+            "r": 2002, 
+            "l": 172, 
+            "page_height": 3328, 
+            "page": 32
+        }
+    ]
+},
+{
+    "text": "Goldhor, H. (1964). Foreword. In H. Goldhor (Ed.), Proceedings of the 1963 clinic on library applications of data processing (Papers presented at the 1st Annual Clinic, 28 April-1 May 1963) (pp. iii-v). Urbana-Champaign: University of Illinois, Graduate School of {{{Library Science}}}.", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 829, 
+                    "b": 1366, 
+                    "t": 1320, 
+                    "page": 32, 
+                    "l": 512
+                }
+            ], 
+            "b": 1366, 
+            "t": 1171, 
+            "page_width": 2134, 
+            "r": 2002, 
+            "l": 172, 
+            "page_height": 3328, 
+            "page": 32
+        }
+    ]
+},
+{
+    "text": "Griffin, M. (1964). IBM advanced systems development library in transition. In H. Goldhor (Ed.), Proceedings of the 1963 clinic on library applications of data processing (Papers presented at the 1st Annual Clinic, 28 April-1 May 1963) (pp. 79-95). Urbana-Champaign: University of Illinois, Graduate School of {{{Library Science}}}.", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1916, 
+                    "b": 1565, 
+                    "t": 1519, 
+                    "page": 32, 
+                    "l": 1600
+                }
+            ], 
+            "b": 1565, 
+            "t": 1370, 
+            "page_width": 2134, 
+            "r": 2002, 
+            "l": 172, 
+            "page_height": 3328, 
+            "page": 32
+        }
+    ]
+},
+{
+    "text": "Kennedy, R. A. (1970). Bell Laboratories on-line circulation control system: One year's experience. In D. E. Carroll (Ed.), Proceedings of the 1969 clinic on library applications of data processing (Papers presented at the 7th Annual Clinic, 27-30 April 1969) (pp. 14-30). Urbana-Champaign: University of Illinois, Graduate School of {{{Library Science}}}.", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1977, 
+                    "b": 2560, 
+                    "t": 2514, 
+                    "page": 32, 
+                    "l": 1829
+                }, 
+                {
+                    "r": 450, 
+                    "b": 2598, 
+                    "t": 2565, 
+                    "l": 302
+                }
+            ], 
+            "b": 2598, 
+            "t": 2366, 
+            "page_width": 2134, 
+            "r": 2002, 
+            "l": 172, 
+            "page_height": 3328, 
+            "page": 32
+        }
+    ]
+},
+{
+    "text": "Kessler, M. M. (1966). The Technical Information Project of the Massachusetts Institute of Technology. In H. Goldhor (Ed.), Proceedings of the 1966 clinic on library applications of data processing (Papers presented at the 4th Annual Clinic, 24-27 April 1966) (pp. 7-17). Urbana-Champaign: University of Illinois, Graduate School of {{{Library Science}}}.", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1977, 
+                    "b": 2808, 
+                    "t": 2762, 
+                    "page": 32, 
+                    "l": 1830
+                }, 
+                {
+                    "r": 452, 
+                    "b": 2846, 
+                    "t": 2812, 
+                    "l": 303
+                }
+            ], 
+            "b": 2846, 
+            "t": 2613, 
+            "page_width": 2134, 
+            "r": 2002, 
+            "l": 172, 
+            "page_height": 3328, 
+            "page": 32
+        }
+    ]
+},
+{
+    "text": "Kilgour, F. G. (1977). The economics of library computerization. In J. L. Divilbiss (Ed.), The economics of library automation (Papers presented at the 13th Annual Clinic on Library Applications of Data Processing, 25-28 April 1976) (pp. 3-9). UrbanaChampaign: University of Illinois, Graduate School of {{{Library Science}}}.", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1749, 
+                    "b": 3055, 
+                    "t": 3010, 
+                    "page": 32, 
+                    "l": 1435
+                }
+            ], 
+            "b": 3055, 
+            "t": 2860, 
+            "page_width": 2134, 
+            "r": 2002, 
+            "l": 172, 
+            "page_height": 3328, 
+            "page": 32
+        }
+    ]
+},
+{
+    "text": "Kilgour, F. G. (1969). Initial system design for the Ohio College Library Center: A case history. In D. E. Carroll (Ed.), Proceedings of the 1968 clinic on library applications of data processing (Papers presented at the 6th Annual Clinic, 5-8 May 1968) (pp. 7988). Urbana-Champaign: University of Illinois, Graduate School of {{{Library Science}}}.", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1879, 
+                    "b": 387, 
+                    "t": 341, 
+                    "page": 33, 
+                    "l": 1570
+                }
+            ], 
+            "b": 387, 
+            "t": 291, 
+            "page_width": 2134, 
+            "r": 1914, 
+            "l": 92, 
+            "page_height": 3328, 
+            "page": 33
+        }
+    ]
+},
+{
+    "text": "Kraft, D. H. (1964). Application of IBM equipment to library mechanization, keywordin-context (KWIC) indexing and the selective dissemination of information (SDI). In H. Goldhor (Ed.), Proceedings of the 1963 clinic on library applications of data processing (Papers presented at the 1st Annual Clinic, 28 April-1 May 1963) (pp. 133-56). Urbana-Champaign: University of Illinois, Graduate School of {{{Library Science}}}.", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1891, 
+                    "b": 639, 
+                    "t": 592, 
+                    "page": 33, 
+                    "l": 1744
+                }, 
+                {
+                    "r": 368, 
+                    "b": 677, 
+                    "t": 644, 
+                    "l": 219
+                }
+            ], 
+            "b": 677, 
+            "t": 391, 
+            "page_width": 2134, 
+            "r": 1914, 
+            "l": 92, 
+            "page_height": 3328, 
+            "page": 33
+        }
+    ]
+},
+{
+    "text": "Kubitz, W. J. (1980). Computer technology: A forecast for the future. In F. W. Lancaster (Ed.), The role of the library in an electronic society (Papers presented at the 16th Annual Clinic on Library Applications of Data Processing, 22-25 April 1979) (pp. 135-61). Urbana-Champaign: University of Illinois, Graduate School of {{{Library Science}}}.", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1892, 
+                    "b": 890, 
+                    "t": 844, 
+                    "page": 33, 
+                    "l": 1744
+                }, 
+                {
+                    "r": 367, 
+                    "b": 928, 
+                    "t": 895, 
+                    "l": 219
+                }
+            ], 
+            "b": 928, 
+            "t": 693, 
+            "page_width": 2134, 
+            "r": 1914, 
+            "l": 92, 
+            "page_height": 3328, 
+            "page": 33
+        }
+    ]
+},
+{
+    "text": "Lancaster, F. W. (1976). Have information services been successful? A critique. In F. W. Lancaster (Ed.), The use of computers in literature searching and related reference activities in libraries (Papers presented at the 12th Annual Clinic on Library Applications of Data Processing, 27-30 April 1975) (pp. 145-56). Urbana-Champaign: University of Illinois, Graduate School of {{{Library Science}}}.", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1180, 
+                    "b": 1191, 
+                    "t": 1146, 
+                    "page": 33, 
+                    "l": 864
+                }
+            ], 
+            "b": 1191, 
+            "t": 944, 
+            "page_width": 2134, 
+            "r": 1914, 
+            "l": 92, 
+            "page_height": 3328, 
+            "page": 33
+        }
+    ]
+},
+{
+    "text": "Lipetz, B.-A. (1970). A quantitative study of catalog use. In D. E. Carroll (Ed.), Proceedings of the 1969 clinic on library applications of data processing (Papers presented at the 7th Annual Clinic, 27-30 April 1969) (pp. 42-49). Urbana-Champaign: University of Illinois, Graduate School of {{{Library Science}}}.", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1180, 
+                    "b": 1442, 
+                    "t": 1397, 
+                    "page": 33, 
+                    "l": 864
+                }
+            ], 
+            "b": 1442, 
+            "t": 1246, 
+            "page_width": 2134, 
+            "r": 1914, 
+            "l": 92, 
+            "page_height": 3328, 
+            "page": 33
+        }
+    ]
+},
+{
+    "text": "McCarn, D. B. (1973). Network\u2014Or all hang separately. In F. W. Lancaster (Ed.), Networking and other forms of cooperation (Papers presented at the 10th Annual Clinic on Library Applications of Data Processing, 29 April-2 May 1973) (pp. 1-8). Urbana-Champaign: University of Illinois, Graduate School of {{{Library Science}}}.", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1831, 
+                    "b": 1644, 
+                    "t": 1598, 
+                    "page": 33, 
+                    "l": 1516
+                }
+            ], 
+            "b": 1644, 
+            "t": 1447, 
+            "page_width": 2134, 
+            "r": 1914, 
+            "l": 92, 
+            "page_height": 3328, 
+            "page": 33
+        }
+    ]
+},
+{
+    "text": "Negus, A. E. (1974). The application of minicomputers to problems of information retrieval. In F. W. Lancaster (Ed.), Applications of minicomputers to library and related problems (Papers presented at the llth Annual Clinic on Library Applications of Data Processing, 28 April-1 May 1974) (pp. 96-104). Urbana-Champaign: University of Illinois, Graduate School of {{{Library Science}}}.", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1178, 
+                    "b": 2447, 
+                    "t": 2402, 
+                    "page": 33, 
+                    "l": 864
+                }
+            ], 
+            "b": 2447, 
+            "t": 2201, 
+            "page_width": 2134, 
+            "r": 1914, 
+            "l": 92, 
+            "page_height": 3328, 
+            "page": 33
+        }
+    ]
+},
+{
+    "text": "Parker, R. H. (1964). Development of automatic systems at the University of Missouri library. In H. Goldhor (Ed.), Proceedings of the 1963 clinic on library applications of data processing (Papers presented at the 1st Annual Clinic, 28 April-1 May 1963) (pp. 43-55). Urbana-Champaign: University of Illinois, Graduate School of {{{Library Science}}}.", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1993, 
+                    "b": 605, 
+                    "t": 559, 
+                    "page": 34, 
+                    "l": 1845
+                }, 
+                {
+                    "r": 466, 
+                    "b": 643, 
+                    "t": 610, 
+                    "l": 317
+                }
+            ], 
+            "b": 643, 
+            "t": 409, 
+            "page_width": 2134, 
+            "r": 2018, 
+            "l": 190, 
+            "page_height": 3328, 
+            "page": 34
+        }
+    ]
+},
+{
+    "text": "Paulukonis, J. T. (1972). On-line real-time self-service circulation at Northwestern University. In F. W. Lancaster (Ed.), Applications of on-line computers to library problems (Papers presented at the 9th Annual Clinic on Library Applications of Data Processing, 30 April-3 May 1972) (pp. 82-93). Urbana-Champaign: University of Illinois, Graduate School of {{{Library Science}}}.", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1221, 
+                    "b": 903, 
+                    "t": 857, 
+                    "page": 34, 
+                    "l": 903
+                }
+            ], 
+            "b": 903, 
+            "t": 658, 
+            "page_width": 2134, 
+            "r": 2018, 
+            "l": 190, 
+            "page_height": 3328, 
+            "page": 34
+        }
+    ]
+},
+{
+    "text": "Pizer, I. H. (1972). On-line technology in a library network. In F. W. Lancaster (Ed.), Applications of on-line computers to library problems (Papers presented at the 9th Annual Clinic on Library Applications of Data Processing, 30 April-3 May 1972) (pp. 5468). Urbana-Champaign: University of Illinojs, Graduate School of {{{Library Science}}}.", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1981, 
+                    "b": 1103, 
+                    "t": 1057, 
+                    "page": 34, 
+                    "l": 1670
+                }
+            ], 
+            "b": 1103, 
+            "t": 907, 
+            "page_width": 2134, 
+            "r": 2018, 
+            "l": 190, 
+            "page_height": 3328, 
+            "page": 34
+        }
+    ]
+},
+{
+    "text": "Price, D. de S. (1980). Happiness is a warm librarian. In F. W. Lancaster (Ed.), The role of the library in an electronic society (Papers presented at the 16th Annual Clinic on Library Applications of Data Processing, 22-25 April 1979) (pp. 3-15). UrbanaChampaign: University of Illinois, Graduate School of {{{Library Science}}}.", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1765, 
+                    "b": 1301, 
+                    "t": 1256, 
+                    "page": 34, 
+                    "l": 1449
+                }
+            ], 
+            "b": 1301, 
+            "t": 1107, 
+            "page_width": 2134, 
+            "r": 2018, 
+            "l": 190, 
+            "page_height": 3328, 
+            "page": 34
+        }
+    ]
+},
+{
+    "text": "Randall, G. E. (1973). Interlibrary cooperation in an industrial environment. In F. W. Lancaster (Ed.), Networking and other forms of cooperation (Papers presented at the 10th Annual Clinic on Library Applications of Data Processing, 29 April-2 May 1973) (pp. 113-23). Urbana-Champaign: University of Illinois, Graduate School of {{{Library Science}}}.", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 636, 
+                    "b": 1550, 
+                    "t": 1504, 
+                    "page": 34, 
+                    "l": 318
+                }
+            ], 
+            "b": 1550, 
+            "t": 1305, 
+            "page_width": 2134, 
+            "r": 2018, 
+            "l": 190, 
+            "page_height": 3328, 
+            "page": 34
+        }
+    ]
+},
+{
+    "text": "Summit, R. K., & Drew, S. J. (1976). The pubic library as information dissemination center: An experiment in information retrieval services for the general public. In F. W. Lancaster (Ed.), The use of computers in literature searching and related reference activities in libraries (Papers presented at the 12th Annual Clinic on Library Applications of Data Processing, 27-30 April 1975) (pp. 91-102). Urbana-Champaign: University of Illinois, Graduate School of {{{Library Science}}}.", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1645, 
+                    "b": 2149, 
+                    "t": 2102, 
+                    "page": 34, 
+                    "l": 1329
+                }
+            ], 
+            "b": 2149, 
+            "t": 1853, 
+            "page_width": 2134, 
+            "r": 2018, 
+            "l": 190, 
+            "page_height": 3328, 
+            "page": 34
+        }
+    ]
+},
+{
+    "text": "Swanson, D. R. (1967). Education and library automation. In D. E. Carroll (Ed.), Proceedings of the 1967 clinic on library applications of data processing (Papers presented at the 5th Annual Clinic, 30 April-3 May 1967) (pp. 1-7). Urbana-Champaign: University of Illinois, Graduate School of {{{Library Science}}}.", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1505, 
+                    "b": 2348, 
+                    "t": 2301, 
+                    "page": 34, 
+                    "l": 1188
+                }
+            ], 
+            "b": 2348, 
+            "t": 2152, 
+            "page_width": 2134, 
+            "r": 2018, 
+            "l": 190, 
+            "page_height": 3328, 
+            "page": 34
+        }
+    ]
+},
+{
+    "text": "Taine, S. I. (1964). Bibliographic data processing at the National Library of Medicine. In H. Goldhor (Ed.), Proceedings of the 1963 clinic on library applications of data processing (Papers presented at the 1st Annual Clinic, 28 April-1 May 1963) (pp. 109-32). Urbana-Champaign: University of Illinois, Graduate School of {{{Library Science}}}.", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1992, 
+                    "b": 2794, 
+                    "t": 2748, 
+                    "page": 34, 
+                    "l": 1844
+                }, 
+                {
+                    "r": 466, 
+                    "b": 2830, 
+                    "t": 2797, 
+                    "l": 318
+                }
+            ], 
+            "b": 2830, 
+            "t": 2599, 
+            "page_width": 2134, 
+            "r": 2018, 
+            "l": 190, 
+            "page_height": 3328, 
+            "page": 34
+        }
+    ]
+},
+{
+    "text": "Turoff, M., & Hiltz, S. R. (1980). Electronic information exchange and its impact on libraries. In F. W. Lancaster (Ed.), The role of the library in an electronic society (Papers presented at the 16th Annual Clinic on Library Applications of Data Processing, 22-25 April 1979) (pp. 117-34). Urbana-Champaign: University of Illinois, Graduate School of {{{Library Science}}}.", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 725, 
+                    "b": 491, 
+                    "t": 446, 
+                    "page": 35, 
+                    "l": 409
+                }
+            ], 
+            "b": 491, 
+            "t": 297, 
+            "page_width": 2134, 
+            "r": 1890, 
+            "l": 68, 
+            "page_height": 3328, 
+            "page": 35
+        }
+    ]
+},
+{
+    "text": "Waltz, D. L. (1976). Natural-language question-answering systems. In F. W. Lancaster (Ed.), The use of computers in literature searching and related reference activities in libraries (Papers presented at the 12th Annual Clinic on Library Applications of Data Processing, 27-30 April 1975) (pp. 137-44). Urbana-Champaign: University of Illinois, Graduate School of {{{Library Science}}}.", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1156, 
+                    "b": 740, 
+                    "t": 694, 
+                    "page": 35, 
+                    "l": 840
+                }
+            ], 
+            "b": 740, 
+            "t": 496, 
+            "page_width": 2134, 
+            "r": 1890, 
+            "l": 68, 
+            "page_height": 3328, 
+            "page": 35
+        }
+    ]
+},
+{
+    "text": "Warheit, I. A. (1972). On-line interactive systems in libraries, now and in the future. In F. W. Lancaster (Ed.), Applications of on-line computers to library problems (Papers presented at the 9th Annual Clinic on Library Applications of Data Processing, 30 April-3 May 1972) (pp. 3-21). Urbana-Champaign: University of Illinois, Graduate School of {{{Library Science}}}.", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 827, 
+                    "b": 1088, 
+                    "t": 1043, 
+                    "page": 35, 
+                    "l": 511
+                }
+            ], 
+            "b": 1088, 
+            "t": 844, 
+            "page_width": 2134, 
+            "r": 1890, 
+            "l": 68, 
+            "page_height": 3328, 
+            "page": 35
+        }
+    ]
+},
+{
+    "text": "Wax, D. M. (1976). NASIC and the information services librarian: Room in the middle. In F. W. Lancaster (Ed.), The use of computers in literature searching and related reference activities in libraries (Papers presented at the 12th Annual Clinic on Library Applications of Data Processing, 27-30 April 1975) (pp. 78-90). Urbana-Champaign: University of Illinois, Graduate School of {{{Library Science}}}.", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1380, 
+                    "b": 1387, 
+                    "t": 1341, 
+                    "page": 35, 
+                    "l": 1065
+                }
+            ], 
+            "b": 1387, 
+            "t": 1142, 
+            "page_width": 2134, 
+            "r": 1890, 
+            "l": 68, 
+            "page_height": 3328, 
+            "page": 35
+        }
+    ]
+},
+{
+    "text": "Wertz, J. A. (1965). Possible applications of data processing equipment in libraries. In H. Goldhor (Ed.), Proceedings of the 1964 clinic on library applications of data processing (Papers presented at the 2nd Annual Clinic, 26-29 April 1964) (pp. 112-17). Urbana-Champaign: University of Illinois, Graduate School of {{{Library Science}}}.", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1806, 
+                    "b": 1636, 
+                    "t": 1590, 
+                    "page": 35, 
+                    "l": 1492
+                }
+            ], 
+            "b": 1636, 
+            "t": 1441, 
+            "page_width": 2134, 
+            "r": 1890, 
+            "l": 68, 
+            "page_height": 3328, 
+            "page": 35
+        }
+    ]
+},
+{
+    "text": "Williams, M. E. (1980). Future directions for machine-readable data bases and their use. In F. W. Lancaster (Ed.), The role of the library in an electronic society (Papers presented at the 16th Annual Clinic on Library Applications of Data Processing, 22-25 April 1979) (pp. 82-93). Urbana-Champaign: University of Illinois, Graduate School of {{{Library Science}}}.", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 513, 
+                    "b": 2133, 
+                    "t": 2088, 
+                    "page": 35, 
+                    "l": 196
+                }
+            ], 
+            "b": 2133, 
+            "t": 1889, 
+            "page_width": 2134, 
+            "r": 1890, 
+            "l": 68, 
+            "page_height": 3328, 
+            "page": 35
+        }
+    ]
+},
+{
+    "text": "Significant events also occurred in the library world. At the September 1962 faculty meeting of the Graduate School of {{{Library Science}}}, Herbert Goldhor, Director, had sought and received approval for the School to hold a Clinic on Library Applications of Data Processing in the spring of 1963 (University of Illinois, 1962). Goldhor had come to the School a few months earlier after serving for a decade as director of the Evansville (Indiana) Public Library. He was impressed with the possibilities of applications of mechanization to library operations and felt that the School had a responsibility to foster programs of continuing education along that line (Goldhor, personal communication, February 29, 1988). By March 28, 1963, the faculty was informed that 123 applications were received for the first Clinic, and 92 were selected to attend (University of Illinois, 1963).", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 2021, 
+                    "b": 1194, 
+                    "t": 1138, 
+                    "page": 38, 
+                    "l": 1639
+                }
+            ], 
+            "b": 1925, 
+            "t": 1072, 
+            "page_width": 2134, 
+            "r": 2060, 
+            "l": 230, 
+            "page_height": 3328, 
+            "page": 38
+        }
+    ]
+},
+{
+    "text": "Adkinson, B. W. (1964). Trends in library applications of data processing. In H. Goldhor (Ed.), Proceedings of the 1963 clinic on library applications of data processing (Papers presented at the 1st Annual Clinic, 28 April-1 May 1963) (pp. 1-8). UrbanaChampaign: University of Illinois, Graduate School of {{{Library Science}}}.", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1792, 
+                    "b": 2223, 
+                    "t": 2177, 
+                    "page": 56, 
+                    "l": 1476
+                }
+            ], 
+            "b": 2223, 
+            "t": 2028, 
+            "page_width": 2134, 
+            "r": 2042, 
+            "l": 216, 
+            "page_height": 3328, 
+            "page": 56
+        }
+    ]
+},
+{
+    "text": "Auld, L., & Baker, R. (1972). LOLITA: An online book order and fund accounting system. In F. W. Lancaster (Ed.), Applications of online computers to library problems (Papers presented at the 9th Annual Clinic on Library Applications of Data Processing, 30 April-3 May 1972) (pp. 29-53). Urbana-Champaign: University of Illinois, Graduate School of {{{Library Science}}}.", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1248, 
+                    "b": 2472, 
+                    "t": 2425, 
+                    "page": 56, 
+                    "l": 931
+                }
+            ], 
+            "b": 2472, 
+            "t": 2227, 
+            "page_width": 2134, 
+            "r": 2042, 
+            "l": 216, 
+            "page_height": 3328, 
+            "page": 56
+        }
+    ]
+},
+{
+    "text": "Avram, H. D. (1971). The evolving MARC system: The concept of a data utility. In K. L. Henderson (Ed.), MARC uses and users (Papers presented at the 8th Annual Clinic on Library Applications of Data Processing, 26-29 April 1970) (pp. 1-26). Urbana-Champaign: University of Illinois, Graduate School of {{{Library Science}}}.", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1959, 
+                    "b": 2918, 
+                    "t": 2871, 
+                    "page": 56, 
+                    "l": 1643
+                }
+            ], 
+            "b": 2918, 
+            "t": 2722, 
+            "page_width": 2134, 
+            "r": 2042, 
+            "l": 216, 
+            "page_height": 3328, 
+            "page": 56
+        }
+    ]
+},
+{
+    "text": "Black, D. V. (1969). Library information system time-sharing on a large, general-purpose computer. In D. E. Carroll (Ed.), Proceedings of the 1968 clinic on library applications of data processing (Papers presented at the 6th Annual Clinic) (pp. 139-54). UrbanaChampaign: University of Illinois, Graduate School of {{{Library Science}}}.", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1660, 
+                    "b": 532, 
+                    "t": 486, 
+                    "page": 57, 
+                    "l": 1344
+                }
+            ], 
+            "b": 532, 
+            "t": 337, 
+            "page_width": 2134, 
+            "r": 1910, 
+            "l": 86, 
+            "page_height": 3328, 
+            "page": 57
+        }
+    ]
+},
+{
+    "text": "Braithwaite, R. J. (1979). Automation of the catalog: The transition from cards to computers. In F. W. Lancaster (Ed.), Problems and failures in library automation (Papers presented at the 15th Annual Clinic on Library Applications of Data Processing, 23-26 April 1978) (pp. 60-66). Urbana-Champaign: University of Illinois, Graduate School of {{{Library Science}}}.", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 949, 
+                    "b": 1079, 
+                    "t": 1033, 
+                    "page": 57, 
+                    "l": 632
+                }
+            ], 
+            "b": 1079, 
+            "t": 833, 
+            "page_width": 2134, 
+            "r": 1910, 
+            "l": 86, 
+            "page_height": 3328, 
+            "page": 57
+        }
+    ]
+},
+{
+    "text": "Brezgis, R. (1966). The ONLUP bibliographic control system: An evaluation. In F. B. Jenkins (Ed.), Proceedings of the 1965 clinic on library applications of data processing (Papers presented at the 3rd Annual Clinic, 25-28 April 1965) (pp. 112-40). UrbanaChampaign: University of Illinois, Graduate School of {{{Library Science}}}.", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1660, 
+                    "b": 1279, 
+                    "t": 1232, 
+                    "page": 57, 
+                    "l": 1345
+                }
+            ], 
+            "b": 1279, 
+            "t": 1083, 
+            "page_width": 2134, 
+            "r": 1910, 
+            "l": 86, 
+            "page_height": 3328, 
+            "page": 57
+        }
+    ]
+},
+{
+    "text": "Brodman, E. (1974). Backing into network operations. In F. W. Lancaster (Ed.), Networking and other forms of cooperation (Papers presented at the 10th Annual Clinic on Library Applications of Data Processing, 29 April-2 May 1973) (pp. 9-23). Urbana-Champaign: University of Illinois, Graduate School of {{{Library Science}}}.", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1541, 
+                    "b": 1478, 
+                    "t": 1431, 
+                    "page": 57, 
+                    "l": 1225
+                }
+            ], 
+            "b": 1478, 
+            "t": 1282, 
+            "page_width": 2134, 
+            "r": 1910, 
+            "l": 86, 
+            "page_height": 3328, 
+            "page": 57
+        }
+    ]
+},
+{
+    "text": "Brody, A. (1966). Bro-Dart Industries' experience with electronic data processing. In F. B. Jenkins (Ed.), Proceedings of the 1965 clinic on library applications of data processing (Papers presented at the 3rd Annual Clinic, 25-28 April 1965) (pp. 65-78). UrbanaChampaign: University of Illinois, Graduate School of {{{Library Science}}}.", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1661, 
+                    "b": 1677, 
+                    "t": 1630, 
+                    "page": 57, 
+                    "l": 1345
+                }
+            ], 
+            "b": 1677, 
+            "t": 1480, 
+            "page_width": 2134, 
+            "r": 1910, 
+            "l": 86, 
+            "page_height": 3328, 
+            "page": 57
+        }
+    ]
+},
+{
+    "text": "Brudvig, G. L. (1974). The development of a minicomputer system for the University of Minnesota Bio-Medical Library. In F. W. Lancaster (Ed.), Applications of minicomputers to library and related problems (Papers presented at the 11th Annual Clinic on Library Applications of Data Processing, 28 April-1 May 1974) (pp. 170-80). Urbana-Champaign: University of Illinois, Graduate School of {{{Library Science}}}.", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1828, 
+                    "b": 1926, 
+                    "t": 1878, 
+                    "page": 57, 
+                    "l": 1513
+                }
+            ], 
+            "b": 1926, 
+            "t": 1679, 
+            "page_width": 2134, 
+            "r": 1910, 
+            "l": 86, 
+            "page_height": 3328, 
+            "page": 57
+        }
+    ]
+},
+{
+    "text": "Burgess, T. K. (1970). Criteria for design of an on-line acquisitions system at Washington State University Library. In D. E. Carroll (Ed.), Proceedings of the 1969 clinic on library applications of data processing (Papers presented at the 7th Annual Clinic, 2730 April 1969) (pp. 50-66). Urbana-Champaign: University of Illinois, Graduate School of {{{Library Science}}}.", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 744, 
+                    "b": 2174, 
+                    "t": 2129, 
+                    "page": 57, 
+                    "l": 427
+                }
+            ], 
+            "b": 2174, 
+            "t": 1927, 
+            "page_width": 2134, 
+            "r": 1910, 
+            "l": 86, 
+            "page_height": 3328, 
+            "page": 57
+        }
+    ]
+},
+{
+    "text": "Burns, L. R. (1964). Automation in the public libraries of Lake County, Indiana. In H. Goldhor (Ed.), Proceedings of the 1963 clinic on library applications of data processing (Papers presented at the 1st Annual Clinic, 28 April-1 May 1963) (pp. 9-17). Urbana-Champaign: University of Illinois, Graduate School of {{{Library Science}}}.", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1828, 
+                    "b": 2622, 
+                    "t": 2573, 
+                    "page": 57, 
+                    "l": 1513
+                }
+            ], 
+            "b": 2622, 
+            "t": 2424, 
+            "page_width": 2134, 
+            "r": 1910, 
+            "l": 86, 
+            "page_height": 3328, 
+            "page": 57
+        }
+    ]
+},
+{
+    "text": "Coward, R. E. (1971). The BNB MARC project. In K. L. Henderson (Ed.), Proceedings of the 1970 clinic on library applications of data processing (Papers presented at the 8th Annual Clinic, 26-29 April 1970) (pp. 36-52). Urbana-Champaign: University of Illinois, Graduate School of {{{Library Science}}}.", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1178, 
+                    "b": 2967, 
+                    "t": 2922, 
+                    "page": 57, 
+                    "l": 862
+                }
+            ], 
+            "b": 2967, 
+            "t": 2770, 
+            "page_width": 2134, 
+            "r": 1910, 
+            "l": 86, 
+            "page_height": 3328, 
+            "page": 57
+        }
+    ]
+},
+{
+    "text": "Curley, W. W. (1966). The data processing program in operation at the Suffolk Cooperative Library System, Patchogne, New York. In F. B. Jenkins (Ed.), Proceedings of the 1965 clinic on library application* of data processing (Papers presented at the 3rd Annual Clinic, 25-28 April 1965) (pp. 15-42). Urbana-Champaign: University of Illinois, Graduate School of {{{Library Science}}}.", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1219, 
+                    "b": 591, 
+                    "t": 546, 
+                    "page": 58, 
+                    "l": 902
+                }
+            ], 
+            "b": 591, 
+            "t": 345, 
+            "page_width": 2134, 
+            "r": 2016, 
+            "l": 188, 
+            "page_height": 3328, 
+            "page": 58
+        }
+    ]
+},
+{
+    "text": "Curran, A. J. (1970). Library networks: Cataloging and bibliographic aspects. In D. E. Carroll (Ed.), Proceedings of the 1969 clinic on library applications of data processing (Papers presented at the 7th Annual Clinic, 27-30 April 1969) (pp. 31-41). UrbanaChampaign: University of Illinois, Graduate School of {{{Library Science}}}.", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1764, 
+                    "b": 794, 
+                    "t": 747, 
+                    "page": 58, 
+                    "l": 1448
+                }
+            ], 
+            "b": 794, 
+            "t": 596, 
+            "page_width": 2134, 
+            "r": 2016, 
+            "l": 188, 
+            "page_height": 3328, 
+            "page": 58
+        }
+    ]
+},
+{
+    "text": "Dodendorf, M. S. (1966). 870 Document Writing System of International Business Machine Corporation in the library section, Los Angeles city schools. In F. B. Jenkins (Ed.), Proceedings of the 1965 clinic on library applications of data processing (Papers presented at the 3rd Annual Clinic, 25-28 April 1965) (pp. 43-64). UrbanaChampaign: University of Illinois, Graduate School of {{{Library Science}}}.", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1764, 
+                    "b": 1197, 
+                    "t": 1151, 
+                    "page": 58, 
+                    "l": 1448
+                }
+            ], 
+            "b": 1197, 
+            "t": 949, 
+            "page_width": 2134, 
+            "r": 2016, 
+            "l": 188, 
+            "page_height": 3328, 
+            "page": 58
+        }
+    ]
+},
+{
+    "text": "Epstein, A. H., & Veaner, A. B. (1973). A user's view of BALLOTS. In F. W. Lancaster (Ed.), Applications of on-line computers to library problems (Papers presented at the 9th Annual Clinic on Library Applications of Data Processing, 30 April-3 May 1972) (pp. 109-37). Urbana-Champaign: University of Illinois, Graduate School of {{{Library Science}}}.", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1994, 
+                    "b": 1750, 
+                    "t": 1704, 
+                    "page": 58, 
+                    "l": 1845
+                }, 
+                {
+                    "r": 465, 
+                    "b": 1789, 
+                    "t": 1756, 
+                    "l": 317
+                }
+            ], 
+            "b": 1789, 
+            "t": 1553, 
+            "page_width": 2134, 
+            "r": 2016, 
+            "l": 188, 
+            "page_height": 3328, 
+            "page": 58
+        }
+    ]
+},
+{
+    "text": "Fayollat, J. (1973). On-line serials control at UCLA. In F. W. Lancaster (Ed.), Applications of on-line computers to library problems (Papers presented at the 9th Annual Clinic on Library Applications of Data Processing, 30 April-3 May 1972) (pp. 69-81). UrbanaChampaign: University of Illinois, Graduate School of {{{Library Science}}}.", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1765, 
+                    "b": 2556, 
+                    "t": 2510, 
+                    "page": 58, 
+                    "l": 1449
+                }
+            ], 
+            "b": 2556, 
+            "t": 2359, 
+            "page_width": 2134, 
+            "r": 2016, 
+            "l": 188, 
+            "page_height": 3328, 
+            "page": 58
+        }
+    ]
+},
+{
+    "text": "Freedman, M. J. (1977). The economics of book catalog production. In J. L. Divilbiss (Ed.), The economics of library automation (Papers presented at the 13th Annual Clinic on Library Applications of Data Processing, 25-28 April 1976) (pp. 107-21). UrbanaChampaign: University of Illinois, Graduate School of {{{Library Science}}}.", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1764, 
+                    "b": 2757, 
+                    "t": 2710, 
+                    "page": 58, 
+                    "l": 1449
+                }
+            ], 
+            "b": 2757, 
+            "t": 2560, 
+            "page_width": 2134, 
+            "r": 2016, 
+            "l": 188, 
+            "page_height": 3328, 
+            "page": 58
+        }
+    ]
+},
+{
+    "text": "Goldhor, H. (1964). Foreword. In H. Goldhor (Ed.), Proceedings of the 1963 clinic on library applications of data processing (Papers presented at the 1st Annual Clinic, 28 April-1 May 1963) (pp. ii-v). Urbana-Champaign: University of Illinois, Graduate School of {{{Library Science}}}.", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 740, 
+                    "b": 609, 
+                    "t": 564, 
+                    "page": 59, 
+                    "l": 423
+                }
+            ], 
+            "b": 609, 
+            "t": 413, 
+            "page_width": 2134, 
+            "r": 1904, 
+            "l": 76, 
+            "page_height": 3328, 
+            "page": 59
+        }
+    ]
+},
+{
+    "text": "Gorman, M. (1977). The economics of book catalog production. In J. L. Divilbiss (Ed.), The economics of library automation (Papers presented at the 13th Annual Clinic on Library Applications of Data Processing, 25-28 April 1976) (pp. 122-32). UrbanaChampaign: University of Illinois, Graduate School of {{{Library Science}}}.", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1658, 
+                    "b": 811, 
+                    "t": 765, 
+                    "page": 59, 
+                    "l": 1342
+                }
+            ], 
+            "b": 811, 
+            "t": 614, 
+            "page_width": 2134, 
+            "r": 1904, 
+            "l": 76, 
+            "page_height": 3328, 
+            "page": 59
+        }
+    ]
+},
+{
+    "text": "Gorman, M. (1980). Technical services in an automated library. In F. W. Lancaster (Ed.), The role of the library in an electronic society (Papers presented at the 16th Annual Clinic on Library Applications of Data Processing, 22-25 April 1979) (pp. 95-103). Urbana-Champaign: University of Illinois, Graduate School of {{{Library Science}}}.", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1825, 
+                    "b": 1214, 
+                    "t": 1168, 
+                    "page": 59, 
+                    "l": 1509
+                }
+            ], 
+            "b": 1214, 
+            "t": 1017, 
+            "page_width": 2134, 
+            "r": 1904, 
+            "l": 76, 
+            "page_height": 3328, 
+            "page": 59
+        }
+    ]
+},
+{
+    "text": "Griffin, H. (1964). Electronic data processing applications to technical processing and circulation activities in a technical library. In H. Goldhor (Ed.), Proceedings of the 1963 clinic on library applications of data processing (Papers presented at the 1st Annual Clinic, 28 April-1 May 1963) (pp. 96-108). Urbana-Champaign: University of Illinois, Graduate School of {{{Library Science}}}.", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1172, 
+                    "b": 1465, 
+                    "t": 1419, 
+                    "page": 59, 
+                    "l": 854
+                }
+            ], 
+            "b": 1465, 
+            "t": 1218, 
+            "page_width": 2134, 
+            "r": 1904, 
+            "l": 76, 
+            "page_height": 3328, 
+            "page": 59
+        }
+    ]
+},
+{
+    "text": "Griffin, H. (1971). MARC users: A study of the distribution of MARC tapes and the subscribers to MARC. In K. L. Henderson (Ed.), MARC uses and users (Papers presented at the 8th Annual Clinic on Library Applications of Data Processing, 26-29 April 1970) (pp. 27-35). Urbana-Champaign: University of Illinois, Graduate School of {{{Library Science}}}.", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 738, 
+                    "b": 1716, 
+                    "t": 1671, 
+                    "page": 59, 
+                    "l": 422
+                }
+            ], 
+            "b": 1716, 
+            "t": 1469, 
+            "page_width": 2134, 
+            "r": 1904, 
+            "l": 76, 
+            "page_height": 3328, 
+            "page": 59
+        }
+    ]
+},
+{
+    "text": "Griffin, M. (1964). IBM advanced systems development library in transition. In H. Goldhor (Ed.), Proceedings of the 1963 clinic on library applications of data processing (Papers presented at the 1st Annual Clinic, 28 April-1 May 1963) (pp. 79-95). Urbana-Champaign: University of Illinois, Graduate School of {{{Library Science}}}.", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1824, 
+                    "b": 1918, 
+                    "t": 1872, 
+                    "page": 59, 
+                    "l": 1509
+                }
+            ], 
+            "b": 1918, 
+            "t": 1722, 
+            "page_width": 2134, 
+            "r": 1904, 
+            "l": 76, 
+            "page_height": 3328, 
+            "page": 59
+        }
+    ]
+},
+{
+    "text": "Henderson, J. D. (1964). The book catalogs of the Los Angeles County Public Library. In H. Goldhor (Ed.), Proceedings of the 1963 clinic on library applications of data processing (Papers presented at the 1st Annual Clinic, 28 April-1 May 1963) (pp. 18-36). Urbana-Champaign: University of Illinois, Graduate School of {{{Library Science}}}.", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1884, 
+                    "b": 2119, 
+                    "t": 2074, 
+                    "page": 59, 
+                    "l": 1736
+                }, 
+                {
+                    "r": 357, 
+                    "b": 2157, 
+                    "t": 2124, 
+                    "l": 208
+                }
+            ], 
+            "b": 2157, 
+            "t": 1923, 
+            "page_width": 2134, 
+            "r": 1904, 
+            "l": 76, 
+            "page_height": 3328, 
+            "page": 59
+        }
+    ]
+},
+{
+    "text": "Henderson, K. L. (1971). Introduction. In K. L. Henderson (Ed.), MARC uses and users (Papers presented at the 8th Annual Clinic on Library Applications of Data Processing, 26-29 April 1970) (pp. ix-x). Urbana-Champaign: University of Illinois, Graduate School of {{{Library Science}}}.", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 945, 
+                    "b": 2370, 
+                    "t": 2325, 
+                    "page": 59, 
+                    "l": 629
+                }
+            ], 
+            "b": 2370, 
+            "t": 2174, 
+            "page_width": 2134, 
+            "r": 1904, 
+            "l": 76, 
+            "page_height": 3328, 
+            "page": 59
+        }
+    ]
+},
+{
+    "text": "Kennedy, J. P. (1969). A local MARC project: The Georgia Tech Library. In D. E. Carroll (Ed.), Proceedings of the 1968 clinic on library applications of data processing (Papers presented at the 6th Annual Clinic, 5-8 May 1968) (pp. 199-215). UrbanaChampaign: University of Illinois, Graduate School of {{{Library Science}}}.", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1775, 
+                    "b": 624, 
+                    "t": 577, 
+                    "page": 60, 
+                    "l": 1460
+                }
+            ], 
+            "b": 624, 
+            "t": 428, 
+            "page_width": 2134, 
+            "r": 2026, 
+            "l": 200, 
+            "page_height": 3328, 
+            "page": 60
+        }
+    ]
+},
+{
+    "text": "Kilgour, F. G. (1965). Development of computerization of card catalogs in medical and scientific libraries. In H. Goldhor (Ed.), Proceedings of the 1964 clinic on library applications of data processing (Papers presented at the 2nd Annual Clinic, 26-29 April 1964) (pp. 25-35). Urbana-Champaign: University of Illinois, Graduate School of {{{Library Science}}}.", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 705, 
+                    "b": 873, 
+                    "t": 827, 
+                    "page": 60, 
+                    "l": 387
+                }
+            ], 
+            "b": 873, 
+            "t": 627, 
+            "page_width": 2134, 
+            "r": 2026, 
+            "l": 200, 
+            "page_height": 3328, 
+            "page": 60
+        }
+    ]
+},
+{
+    "text": "Kilgour, F. G. (1977). The economics of library computerization. In J. L. Divilbiss (Ed.), The economics of library automation (Papers presented at the 13th Annual Clinic on Library Applications of Data Processing, 25-28 April 1976) (pp. 3-9). UrbanaChampaign: University of Illinois, Graduate School of {{{Library Science}}}.", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1776, 
+                    "b": 1072, 
+                    "t": 1026, 
+                    "page": 60, 
+                    "l": 1460
+                }
+            ], 
+            "b": 1072, 
+            "t": 876, 
+            "page_width": 2134, 
+            "r": 2026, 
+            "l": 200, 
+            "page_height": 3328, 
+            "page": 60
+        }
+    ]
+},
+{
+    "text": "Kilgour, F. G. (1969). Initial system design for the Ohio Collect[sic] Library Center: A case history. In D. E. Carroll (Ed.), Proceedings of the 1968 clinic on library applications of data processing (Papers presented at the 6th Annual Clinic, 5-8 May 1968) (pp. 79-88). Urbana-Champaign: University of Illinois, Graduate School of {{{Library Science}}}.", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 2005, 
+                    "b": 1271, 
+                    "t": 1225, 
+                    "page": 60, 
+                    "l": 1857
+                }, 
+                {
+                    "r": 476, 
+                    "b": 1310, 
+                    "t": 1276, 
+                    "l": 328
+                }
+            ], 
+            "b": 1310, 
+            "t": 1076, 
+            "page_width": 2134, 
+            "r": 2026, 
+            "l": 200, 
+            "page_height": 3328, 
+            "page": 60
+        }
+    ]
+},
+{
+    "text": "Kilgour, F. G. (1971). Summary of MARC. In K. L. Henderson (Ed.), MARC uses and users (Papers presented at the 8th Annual Clinic on Library Applications of Data Processing, 26-29 April 1970) (pp. 105-10). Urbana-Champaign: University of Illinois, Graduate School of {{{Library Science}}}.", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1233, 
+                    "b": 1520, 
+                    "t": 1475, 
+                    "page": 60, 
+                    "l": 916
+                }
+            ], 
+            "b": 1520, 
+            "t": 1325, 
+            "page_width": 2134, 
+            "r": 2026, 
+            "l": 200, 
+            "page_height": 3328, 
+            "page": 60
+        }
+    ]
+},
+{
+    "text": "Kozlow, R. D. (1969). Genesis for a serials list. In D. E. Carroll (Ed.), Proceedings of the 1968 clinic on library applications of data processing (Papers presented at the 6th Annual Clinic, 5-8 May 1968) (pp. 216-35). Urbana-Champaign: University of Illinois, Graduate School of {{{Library Science}}}.", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1233, 
+                    "b": 1870, 
+                    "t": 1824, 
+                    "page": 60, 
+                    "l": 916
+                }
+            ], 
+            "b": 1870, 
+            "t": 1674, 
+            "page_width": 2134, 
+            "r": 2026, 
+            "l": 200, 
+            "page_height": 3328, 
+            "page": 60
+        }
+    ]
+},
+{
+    "text": "Lancaster, F. W.; Drasgow, L. S.; & Marks, E. B. (1980). The role of the library in an electronic society. In F. W. Lancaster (Ed.), The role of the library in an electronic society (Papers presented at the 16th Annual Clinic on Library Applications of Data Processing, 22-25 April 1979) (pp. 162-91). Urbana-Champaign: University of Illinois, Graduate School of {{{Library Science}}}.", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1233, 
+                    "b": 2120, 
+                    "t": 2073, 
+                    "page": 60, 
+                    "l": 915
+                }
+            ], 
+            "b": 2120, 
+            "t": 1875, 
+            "page_width": 2134, 
+            "r": 2026, 
+            "l": 200, 
+            "page_height": 3328, 
+            "page": 60
+        }
+    ]
+},
+{
+    "text": "Long, P. (1974). OCLV: From concept to functioning network. In F. W. Lancaster (Ed.), Networking and other forms of cooperation (Papers presented at the 10th Annual Clinic on Library Applications of Data Processing, 29 April-2 May 1973) (pp. 165-70). Urbana-Champaign: University of Illinois, Graduate School of {{{Library Science}}}.", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1944, 
+                    "b": 2319, 
+                    "t": 2272, 
+                    "page": 60, 
+                    "l": 1628
+                }
+            ], 
+            "b": 2319, 
+            "t": 2122, 
+            "page_width": 2134, 
+            "r": 2026, 
+            "l": 200, 
+            "page_height": 3328, 
+            "page": 60
+        }
+    ]
+},
+{
+    "text": "Lipetz, B. (1970). A quantitative study of catalog use. In D. E. Carroll (Ed.), Proceedings of the 1969 clinic on library applications of data processing (Papers presented at the 7th Annual Clinic, 27-30 April 1969) (pp. 42-49). Urbana-Champaign: University of Illinois, Graduate School of {{{Library Science}}}.", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1291, 
+                    "b": 2517, 
+                    "t": 2470, 
+                    "page": 60, 
+                    "l": 974
+                }
+            ], 
+            "b": 2517, 
+            "t": 2322, 
+            "page_width": 2134, 
+            "r": 2026, 
+            "l": 200, 
+            "page_height": 3328, 
+            "page": 60
+        }
+    ]
+},
+{
+    "text": "Malinconico, S. M. (1977). The economics of computer output media. In J. L. Divilbiss (Ed.), The economics of library automation (Papers presented at the 13th Annual Clinic on Library Applications of Data Processing, 25-28 April 1976) (pp. 145-62). UrbanaChampaign: University of Illinois, Graduate School of {{{Library Science}}}.", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1775, 
+                    "b": 2716, 
+                    "t": 2669, 
+                    "page": 60, 
+                    "l": 1460
+                }
+            ], 
+            "b": 2716, 
+            "t": 2520, 
+            "page_width": 2134, 
+            "r": 2026, 
+            "l": 200, 
+            "page_height": 3328, 
+            "page": 60
+        }
+    ]
+},
+{
+    "text": "Markuson, B. E. (1968). Aspects of automation viewed from the Library of Congress. In D. E. Carroll (Ed.), Proceedings of the 1967 clinic on library applications of data processing (Papers presented at the 5th Annual Clinic, 30 April-3 May 1967) (pp. 98-129). Urbana-Champaign: University of Illinois, Graduate School of {{{Library Science}}}.", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 2003, 
+                    "b": 2914, 
+                    "t": 2867, 
+                    "page": 60, 
+                    "l": 1855
+                }, 
+                {
+                    "r": 477, 
+                    "b": 2950, 
+                    "t": 2917, 
+                    "l": 328
+                }
+            ], 
+            "b": 2950, 
+            "t": 2718, 
+            "page_width": 2134, 
+            "r": 2026, 
+            "l": 200, 
+            "page_height": 3328, 
+            "page": 60
+        }
+    ]
+},
+{
+    "text": "McGee, R. S., & Miller, R. C. (1971). MARC utilization in the University of Chicago Library Bibliographic Data Processing System. In K. L. Henderson (Ed.), MARC uses and users (Papers presented at the 8th Annual Clinic on Library Applications of Data Processing, 26-29 April 1970) (pp. 78-97). Urbana-Champaign: University of Illinois, Graduate School of {{{Library Science}}}.", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1166, 
+                    "b": 510, 
+                    "t": 465, 
+                    "page": 61, 
+                    "l": 849
+                }
+            ], 
+            "b": 510, 
+            "t": 313, 
+            "page_width": 2134, 
+            "r": 1904, 
+            "l": 76, 
+            "page_height": 3328, 
+            "page": 61
+        }
+    ]
+},
+{
+    "text": "Miller, E. W., & Hodges, B. J. (1973). Shawnee Mission's on-line cataloging system: The first two years. In F. W. Lancaster (Ed.), Applications of on-line computers to library problems (Papers presented at the 9th Annual Clinic on Library Applications of Data Processing, 30 April-3 May 1972) (pp. 94-108). Urbana-Champaign: University of Illinois, Graduate School of {{{Library Science}}}.", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1166, 
+                    "b": 761, 
+                    "t": 716, 
+                    "page": 61, 
+                    "l": 850
+                }
+            ], 
+            "b": 761, 
+            "t": 514, 
+            "page_width": 2134, 
+            "r": 1904, 
+            "l": 76, 
+            "page_height": 3328, 
+            "page": 61
+        }
+    ]
+},
+{
+    "text": "Parker, R. H. (1964). Development of automatic systems at the University of Missouri Library. In H. Goldhor (Ed.), Proceedings of the 1963 clinic on library applications of data processing (Papers presented at the 1st Annual Clinic, 28 April-1 May 1963) (pp. 43-55). Urbana-Champaign: University of Illinois, Graduate School of {{{Library Science}}}.", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1880, 
+                    "b": 1013, 
+                    "t": 966, 
+                    "page": 61, 
+                    "l": 1733
+                }, 
+                {
+                    "r": 353, 
+                    "b": 1052, 
+                    "t": 1018, 
+                    "l": 204
+                }
+            ], 
+            "b": 1052, 
+            "t": 815, 
+            "page_width": 2134, 
+            "r": 1904, 
+            "l": 76, 
+            "page_height": 3328, 
+            "page": 61
+        }
+    ]
+},
+{
+    "text": "Payne, C. T. (1967). An integrated computer-based bibliographic data system for a large university library: Problems and progress at the University of Chicago. In D. E. Carroll (Ed.), Proceedings of the 1967 clinic on library applications of data processing (Papers presented at the 5th Annual Clinic, 30 April-3 May 1967) (pp. 29-40). Urbana-Champaign: University of Illinois, Graduate School of {{{Library Science}}}.", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1819, 
+                    "b": 1314, 
+                    "t": 1268, 
+                    "page": 61, 
+                    "l": 1504
+                }
+            ], 
+            "b": 1314, 
+            "t": 1067, 
+            "page_width": 2134, 
+            "r": 1904, 
+            "l": 76, 
+            "page_height": 3328, 
+            "page": 61
+        }
+    ]
+},
+{
+    "text": "Salmon, S. R. (1970). Development of the card-automated reproduction and distribution system (CARDS) at the Library of Congress. In D. E. Carroll (Ed.), Proceedings of the 1969 clinic on library applications of data processing (Papers presented at the 7th Annual Clinic, 27-30 April 1969) (pp. 98-113). Urbana-Champaign: University of Illinois, Graduate School of {{{Library Science}}}.", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1107, 
+                    "b": 2168, 
+                    "t": 2123, 
+                    "page": 61, 
+                    "l": 791
+                }
+            ], 
+            "b": 2168, 
+            "t": 1922, 
+            "page_width": 2134, 
+            "r": 1904, 
+            "l": 76, 
+            "page_height": 3328, 
+            "page": 61
+        }
+    ]
+},
+{
+    "text": "Sage, C. R. (1974). Utilization of the MARC II format for serials in an inter-university environment. In F. W. Lancaster (Ed.), Networking and other forms of cooperation (Papers presented at the 10th Annual Clinic on Library Applications of Data Processing, 29 April-2 May 1973) (pp. 24-31). Urbana-Champaign: University of Illinois, Graduate School of {{{Library Science}}}.", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1106, 
+                    "b": 2419, 
+                    "t": 2373, 
+                    "page": 61, 
+                    "l": 791
+                }
+            ], 
+            "b": 2419, 
+            "t": 2173, 
+            "page_width": 2134, 
+            "r": 1904, 
+            "l": 76, 
+            "page_height": 3328, 
+            "page": 61
+        }
+    ]
+},
+{
+    "text": "Salton, G. (1980). Toward a dynamic library. In F. W. Lancaster (Ed.), The role of the library in an electronic society (Papers presented at the 16th Annual Clinic on Library Applications of Data Processing, 22-25 April 1979) (pp. 60-81). Urbana-Champaign: University of Illinois, Graduate School of {{{Library Science}}}.", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1389, 
+                    "b": 2620, 
+                    "t": 2574, 
+                    "page": 61, 
+                    "l": 1074
+                }
+            ], 
+            "b": 2620, 
+            "t": 2424, 
+            "page_width": 2134, 
+            "r": 1904, 
+            "l": 76, 
+            "page_height": 3328, 
+            "page": 61
+        }
+    ]
+},
+{
+    "text": "Schultheiss, L. A. (1964). Techniques of flow-charting. In H. Goldhor (Ed.), Proceedings of the 1963 clinic on library applications of data processing (Papers presented at the 1st Annual Clinic, 28 April-1 May 1963) (pp. 62-78). Urbana-Champaign: University of Illinois, Graduate School of {{{Library Science}}}.", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1164, 
+                    "b": 2820, 
+                    "t": 2774, 
+                    "page": 61, 
+                    "l": 848
+                }
+            ], 
+            "b": 2820, 
+            "t": 2624, 
+            "page_width": 2134, 
+            "r": 1904, 
+            "l": 76, 
+            "page_height": 3328, 
+            "page": 61
+        }
+    ]
+},
+{
+    "text": "Stromberg, D. H. (1966). Computer applications to book catalogs and library systems. In H. Goldhor (Ed.), Proceedings of the 1966 clinic on library applications of data processing (Papers presented at the 4th Annual Clinic, 24-27 April 1966) (pp. 195210). Urbana-Champaign: University of Illinois, Graduate School of {{{Library Science}}}.", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 2010, 
+                    "b": 1016, 
+                    "t": 970, 
+                    "page": 62, 
+                    "l": 1770
+                }, 
+                {
+                    "r": 421, 
+                    "b": 1053, 
+                    "t": 1031, 
+                    "l": 330
+                }
+            ], 
+            "b": 1053, 
+            "t": 821, 
+            "page_width": 2134, 
+            "r": 2030, 
+            "l": 202, 
+            "page_height": 3328, 
+            "page": 62
+        }
+    ]
+},
+{
+    "text": "Taine, S. I. (1964). Bibliographic data processing at the National Library of Medicine. In H. Goldhor (Ed.), Proceedings of the 1963 clinic on library applications of data processing (Papers presented at the 1st Annual Clinic, 28 April-1 May 1963) (pp. 109-24). Urbana-Champaign: University of Illinois, Graduate School of {{{Library Science}}}.", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 2009, 
+                    "b": 1265, 
+                    "t": 1219, 
+                    "page": 62, 
+                    "l": 1861
+                }, 
+                {
+                    "r": 479, 
+                    "b": 1302, 
+                    "t": 1269, 
+                    "l": 330
+                }
+            ], 
+            "b": 1302, 
+            "t": 1069, 
+            "page_width": 2134, 
+            "r": 2030, 
+            "l": 202, 
+            "page_height": 3328, 
+            "page": 62
+        }
+    ]
+},
+{
+    "text": "Thomson, J. W., & Muller, R. H. (1969). The computer-based book order system at the University of Michigan Library: A review and evaluation. In D. E. Carroll (Ed.), Proceedings of the 1968 clinic on library applications of data processing (Papers presented at the 6th Annual Clinic, 5-8 May 1968) (pp. 54-78). Urbana-Champaign: University of Illinois, Graduate School of {{{Library Science}}}.", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1293, 
+                    "b": 1664, 
+                    "t": 1617, 
+                    "page": 62, 
+                    "l": 976
+                }
+            ], 
+            "b": 1664, 
+            "t": 1418, 
+            "page_width": 2134, 
+            "r": 2030, 
+            "l": 202, 
+            "page_height": 3328, 
+            "page": 62
+        }
+    ]
+},
+{
+    "text": "Upham, L., & Wilcox, A. (1978). Negotiating for data base sharing. In J. L. Divilbiss (Ed.), Negotiating for computer services (Papers presented at the 14th Annual Clinic on Library Applications of Data Processing, 24-27 April 1977) (pp. 95-103). UrbanaChampaign: University of Illinois, Graduate School of {{{Library Science}}}.", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1779, 
+                    "b": 2162, 
+                    "t": 2115, 
+                    "page": 62, 
+                    "l": 1462
+                }
+            ], 
+            "b": 2162, 
+            "t": 1966, 
+            "page_width": 2134, 
+            "r": 2030, 
+            "l": 202, 
+            "page_height": 3328, 
+            "page": 62
+        }
+    ]
+},
+{
+    "text": "Warheit, I. A. (1972). On-line interactive systems in libraries now and in the future. In F. W. Lancaster (Ed.), Applications of on-line computers to library problems (Papers presented at the 9th Annual Clinic on Library Applications of Data Processing, 30 April-3 May 1972) (pp. 3-21). Urbana-Champaign: University of Illinois, Graduate School of {{{Library Science}}}.", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 962, 
+                    "b": 2658, 
+                    "t": 2612, 
+                    "page": 62, 
+                    "l": 645
+                }
+            ], 
+            "b": 2658, 
+            "t": 2413, 
+            "page_width": 2134, 
+            "r": 2030, 
+            "l": 202, 
+            "page_height": 3328, 
+            "page": 62
+        }
+    ]
+},
+{
+    "text": "Zuckerman, R. A. (1968). Computerized book catalogs and their effects on integrated library data processing: Research and progress at the Los Angeles County Public Library. In D. E. Carroll (Ed.), Proceedings of the 1967 clinic on library applications of data processing (Papers presented at the 5th Annual Clinic, 30 April-3 May 1967) (pp. 70-89). Urbana-Champaign: University of Illinois, Graduate School of {{{Library Science}}}.", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 2004, 
+                    "b": 2957, 
+                    "t": 2908, 
+                    "page": 62, 
+                    "l": 1856
+                }, 
+                {
+                    "r": 478, 
+                    "b": 2991, 
+                    "t": 2958, 
+                    "l": 329
+                }
+            ], 
+            "b": 2991, 
+            "t": 2710, 
+            "page_width": 2134, 
+            "r": 2030, 
+            "l": 202, 
+            "page_height": 3328, 
+            "page": 62
+        }
+    ]
+},
+{
+    "text": "School of {{{Library Science}}}", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1269, 
+                    "b": 698, 
+                    "t": 652, 
+                    "page": 63, 
+                    "l": 953
+                }
+            ], 
+            "b": 698, 
+            "t": 652, 
+            "page_width": 2134, 
+            "r": 1286, 
+            "l": 724, 
+            "page_height": 3328, 
+            "page": 63
+        }
+    ]
+},
+{
+    "text": "Chapin, R. E. (1967). Administrative and economic considerations for library automation. In D. E. Carroll (Ed.), Proceedings of the 1967 clinic on library applications of data processing (Papers presented at the 5th Annual Clinic, 30 April-3 May 1967) (pp. 55-69). Urbana-Champaign: University of Illinois, Graduate School of {{{Library Science}}}.", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 2050, 
+                    "b": 1719, 
+                    "t": 1673, 
+                    "page": 76, 
+                    "l": 1901
+                }, 
+                {
+                    "r": 518, 
+                    "b": 1756, 
+                    "t": 1723, 
+                    "l": 370
+                }
+            ], 
+            "b": 1756, 
+            "t": 1524, 
+            "page_width": 2134, 
+            "r": 2070, 
+            "l": 242, 
+            "page_height": 3328, 
+            "page": 76
+        }
+    ]
+},
+{
+    "text": "Corey, J. (1979). The ups, down and demise of a library circulation system. In F. W. Lancaster (Ed.), Problems and failures in library automation (Papers presented at the 15th Annual Clinic on Library Applications of Data Processing, 23-26 April 1978) (pp. 35-49). Urbana-Champaign: University of Illinois, Graduate School of {{{Library Science}}}.", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 2049, 
+                    "b": 1968, 
+                    "t": 1922, 
+                    "page": 76, 
+                    "l": 1900
+                }, 
+                {
+                    "r": 518, 
+                    "b": 2005, 
+                    "t": 1972, 
+                    "l": 369
+                }
+            ], 
+            "b": 2005, 
+            "t": 1772, 
+            "page_width": 2134, 
+            "r": 2070, 
+            "l": 242, 
+            "page_height": 3328, 
+            "page": 76
+        }
+    ]
+},
+{
+    "text": "Divilbiss,J. L. (1978). Introduction. InJ. L. Divilbiss (Ed.), Negotiating for computer services (Papers presented at the 14th Annual Clinic on Library Applications of Data Processing, 24-27 April 1977) (p. 1). Urbana-Champaign: University of Illinois, Graduate School of {{{Library Science}}}.", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1106, 
+                    "b": 2663, 
+                    "t": 2617, 
+                    "page": 76, 
+                    "l": 789
+                }
+            ], 
+            "b": 2663, 
+            "t": 2468, 
+            "page_width": 2134, 
+            "r": 2070, 
+            "l": 242, 
+            "page_height": 3328, 
+            "page": 76
+        }
+    ]
+},
+{
+    "text": "Dobb, T. C. (1970). The administration and organization of data processing for the library as viewed from the computing centre. In D. E. Carroll (Ed.), Proceedings of the 1969 clinic on library applications of data processing (Papers presented at the 7th Annual Clinic, 27-30 April 1969) (pp. 75-80). Urbana-Champaign: University of Illinois, Graduate School of {{{Library Science}}}.", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1273, 
+                    "b": 2911, 
+                    "t": 2864, 
+                    "page": 76, 
+                    "l": 956
+                }
+            ], 
+            "b": 2911, 
+            "t": 2666, 
+            "page_width": 2134, 
+            "r": 2070, 
+            "l": 242, 
+            "page_height": 3328, 
+            "page": 76
+        }
+    ]
+},
+{
+    "text": "Hage, E. B. (1967). An administrator's approach to automation at the Prince George's County (Maryland) Memorial Library. In D. E. Carroll (Ed.), Proceedings of the 1967 clinic on library applications of data processing (Papers presented at the 5th Annual Clinic, 30 April - 3 May 1967) (pp. 90-97). Urbana-Champaign: University of Illinois, Graduate School of {{{Library Science}}}.", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1091, 
+                    "b": 1064, 
+                    "t": 1019, 
+                    "page": 77, 
+                    "l": 775
+                }
+            ], 
+            "b": 1064, 
+            "t": 819, 
+            "page_width": 2134, 
+            "r": 1884, 
+            "l": 60, 
+            "page_height": 3328, 
+            "page": 77
+        }
+    ]
+},
+{
+    "text": "Kilgour, F. G. (1976). Economics of library computerization. In J. L. Divilbiss (Ed.), The economics of library automation (Papers presented at the 13th Annual Clinic on Library Applications of Data Processing, 25-28 April 1976) (pp. 3-9). Urbana-Champaign: University of Illinois, Graduate School of {{{Library Science}}}.", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1375, 
+                    "b": 1562, 
+                    "t": 1516, 
+                    "page": 77, 
+                    "l": 1059
+                }
+            ], 
+            "b": 1562, 
+            "t": 1367, 
+            "page_width": 2134, 
+            "r": 1884, 
+            "l": 60, 
+            "page_height": 3328, 
+            "page": 77
+        }
+    ]
+},
+{
+    "text": "Kountz, J. C. (1979). Problems of government bureaucracy when contracting for turnkey computer systems. In F. W. Lancaster (Ed.), Problems and failures in library automation (Papers presented at the 15th Annual Clinic on Library Applications of Data Processing, 23-26 April 1978) (pp. 23-24). Urbana-Champaign: University of Illinois, Graduate School of {{{Library Science}}}.", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 925, 
+                    "b": 1911, 
+                    "t": 1865, 
+                    "page": 77, 
+                    "l": 608
+                }
+            ], 
+            "b": 1911, 
+            "t": 1666, 
+            "page_width": 2134, 
+            "r": 1884, 
+            "l": 60, 
+            "page_height": 3328, 
+            "page": 77
+        }
+    ]
+},
+{
+    "text": "Lancaster, F. W. (1979). Introduction. In F. W. Lancaster (Ed.), Problems and failures in library automation (Papers presented at the 15th Annual Clinic on Library Applications of Data Processing, 23-26 April 1978) (p. 1). Urbana-Champaign: University of Illinois, Graduate School of {{{Library Science}}}.", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1150, 
+                    "b": 2109, 
+                    "t": 2064, 
+                    "page": 77, 
+                    "l": 834
+                }
+            ], 
+            "b": 2109, 
+            "t": 1914, 
+            "page_width": 2134, 
+            "r": 1884, 
+            "l": 60, 
+            "page_height": 3328, 
+            "page": 77
+        }
+    ]
+},
+{
+    "text": "Veaner, A. B. (1979). What hath technology wrought? In F. W. Lancaster (Ed.), Problems and failures in library automation (Papers presented at the 15th Annual Clinic on Library Applications of Data Processing, 25-26 April 1978) (pp. 3-15). UrbanaChampaign: University of Illinois, Graduate School of {{{Library Science}}}.", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1809, 
+                    "b": 713, 
+                    "t": 666, 
+                    "page": 78, 
+                    "l": 1492
+                }
+            ], 
+            "b": 713, 
+            "t": 516, 
+            "page_width": 2134, 
+            "r": 2054, 
+            "l": 232, 
+            "page_height": 3328, 
+            "page": 78
+        }
+    ]
+},
+{
+    "text": "M. LESLIE EDMONDS is Youth Services Coordinator at the St. Loius Public Library and was previously Assistant Professor at the Graduate School of Library and Information Science at the University of Illinois at Urbana-Champaign. She received her Ph.D. in Curriculum and Instruction from Loyola University and a master's degree in {{{Library Science}}} from the University of Chicago. She received the first Carroll Preston Baber Award with Paula Moore from ALA to support her research of children's use of library catalogs. She is currently developing training for children on how to use and understand online catalogs.", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 1949, 
+                    "b": 1269, 
+                    "t": 1212, 
+                    "page": 205, 
+                    "l": 1766
+                }, 
+                {
+                    "r": 345, 
+                    "b": 1336, 
+                    "t": 1279, 
+                    "l": 163
+                }
+            ], 
+            "b": 1535, 
+            "t": 947, 
+            "page_width": 2134, 
+            "r": 1968, 
+            "l": 144, 
+            "page_height": 3328, 
+            "page": 205
+        }
+    ]
+},
+{
+    "text": "RICHARD RUBIN is Assistant Professor at the School of {{{Library Science}}} at Kent State University. He received his Ph.D. in Library and Information Science from the University of Illinois at Urbana-Champaign, and his M.L.S. from Kent State University. He is author of the book, Human Resource Management: Theory and Practice, and was formerly Personnel Director of the Akron-Summit County Public Library.", 
+    "par": [
+        {
+            "boxes": [
+                {
+                    "r": 2030, 
+                    "b": 2617, 
+                    "t": 2561, 
+                    "page": 206, 
+                    "l": 1846
+                }, 
+                {
+                    "r": 424, 
+                    "b": 2686, 
+                    "t": 2627, 
+                    "l": 242
+                }
+            ], 
+            "b": 2950, 
+            "t": 2561, 
+            "page_width": 2134, 
+            "r": 2052, 
+            "l": 222, 
+            "page_height": 3328, 
+            "page": 206
+        }
+    ]
+} ] 
+}
