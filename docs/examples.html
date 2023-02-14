@@ -18,35 +18,47 @@
 <div id="main">
 
     <h1 class="page-title">Usage Examples</h1>
-        <h2>Header 1</h2>
-            <p>Coming Soon</p>
+        <h2>Make a Request Using ReadAPI</h2>
+            <p>To make a single request, use getSingleRequest() with a single identifier and its type:</p>
+            <pre class="prettyprint source">
+                <code>
+                    const read = new ReadAPI();
+                    const item = read.getSingleRequest("0596156715", "isbn");
+                </code>
+            </pre>
+            <p>To make multiple requests at once, pass a list of Request objects to getMultiRequest():</p>
+            <pre class="prettyprint source">
+                <code>
+                    <span class="line">const requests = [new Request([new LibraryID("1", "id"), new LibraryID("50006784", "lccn")]),</span> 
+                    <span class="line">      new Request([new LibraryID("OL6179000M", "olid"), new LibraryID("55011330", "lccn")])];</span>
 
+                    const items = read.getMultiRequest(requests);
+                </code>
+            </pre>
+            <p>A Request object is just a list of LibraryID objects, which are just an identifier and its type. You can add a library ID
+                to a request either by using the request object's addLibraryID() method with a LibraryID object or its addID() method
+                with an identifier and type:
+            </p>
+            <pre class="prettyprint source">
+                <code>
+                    <span class="line">let request = new Request();</span>
+                    <span class="line">const newID = new LibraryID("321", "id");</span> 
+                    <span class="line">request.addLibraryID(newID);</span>
+                    <span class="line">request.addID("oclc", "27082333");</span>
+                </code>
+            </pre>
     
-
-
-
-    
-
-
-    <h3> </h3>
-
-
-
-
-
-
-
-
-
-
-    
-
-
-
-
-
-
-
+        <h2>Search Using SearchAPI</h2>
+        <p>
+            To use SearchAPI's search() method, create a QueryField object from the field you want to search and the query value. For example, to search for an author named "zola":
+            </p>
+            <pre class="prettyprint source">
+                <code>
+                    <span class="line">const search = new SearchAPI();</span> 
+                    <span class="line">const q = new QueryField("zola", "author");</span>
+                    <span class="line">const results = await search.search(q);</span>
+                </code>
+            </pre>
 
 
 </div>
